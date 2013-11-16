@@ -7,7 +7,7 @@ if [ -z "$CHOSENLANG" ]; then
   exit
 fi
 
-TOTALSPACES_RESOURCES='/Applications/TotalSpaces.app/Contents/Resources'
+TOTALSPACES_RESOURCES='/Applications/TotalSpaces2.app/Contents/Resources'
 
 # need absolute path of the repo's root
 pushd . > /dev/null
@@ -16,7 +16,7 @@ cd ..
 ROOT=$PWD
 
 if [ ! -d "$TOTALSPACES_RESOURCES" ]; then # is it a folder?
-  echo "Please install TotalSpaces. Folder '$TOTALSPACES_RESOURCES' not found".
+  echo "Please install TotalSpaces2. Folder '$TOTALSPACES_RESOURCES' not found".
   popd > /dev/null
   exit
 fi
@@ -31,7 +31,7 @@ if [ ! -d "$LOCAL_LANG_FOLDER" ]; then
 fi
 
 if [ -L "$TS_LANG_FOLDER" ]; then # is is a symlink?
-  echo "TotalSpaces is already in dev mode for this language. Folder '$TS_LANG_FOLDER' is a symlink! Exiting.".
+  echo "TotalSpaces2 is already in dev mode for this language. Folder '$TS_LANG_FOLDER' is a symlink! Exiting.".
   popd > /dev/null
   exit
 fi

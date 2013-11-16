@@ -7,7 +7,7 @@ if [ -z "$CHOSENLANG" ]; then
   exit
 fi
 
-TOTALSPACES_RESOURCES='/Applications/TotalSpaces.app/Contents/Resources'
+TOTALSPACES_RESOURCES='/Applications/TotalSpaces2.app/Contents/Resources'
 
 # need absolute path of the repo's root
 pushd . > /dev/null
@@ -29,4 +29,4 @@ if [ -d "$TOTALSPACES_RESOURCES" ]; then # is it a folder?
   fi
 fi
 
-echo "Failed: TotalSpaces is not installed or not in dev mode"
+echo "Failed: TotalSpaces2 is not installed or not in dev mode"
