@@ -1,6 +1,6 @@
 # TotalSpaces2 Internationalization ([totalspaces.binaryage.com](http://totalspaces.binaryage.com))
 
-**TotalSpaces** is an app that brings grid spaces to OSX. This project gathers localizable resources.
+**TotalSpaces2** is an app that brings grid spaces to OSX. This project gathers localizable resources.
 
 <img width="500" src="http://totalspaces.binaryage.com/images/grid-view.png">
 
@@ -16,14 +16,14 @@ You should push your changes back to GitHub and I will then incorporate your wor
 1. Read something about git version control system. Here is [the best place to start](http://git-scm.com/documentation).
 2. Get familiar with GitHub. They have also [nice docs](http://help.github.com).
 3. Create GitHub user and don't forget to [setup your local git](http://help.github.com/mac-set-up-git) so your commits are linked to your GitHub account.
-4. See how others are working on [TotalSpaces localization](http://github.com/binaryage/totalspaces2-i18n/network).
+4. See how others are working on [TotalSpaces2 localization](http://github.com/binaryage/totalspaces2-i18n/network).
 
 ## The Workflow
 
 ### Initial step
 
 1. [fork this project](http://help.github.com/fork-a-repo) on GitHub
-2. [clone your fork](http://help.github.com/remotes) (let's assume you have it in `~/totalspaces-i18n`)
+2. [clone your fork](http://help.github.com/remotes) (let's assume you have it in `~/totalspaces2-i18n`)
 3. make sure you have [installed latest TotalSpaces2](http://totalspaces.binaryage.com/changes2) version
 4. `cd ~/totalspaces2-i18n` and run `./bin/dev.sh langname` - where langname should be the two character language code from [ISO 639-1](http://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
 
@@ -58,7 +58,7 @@ Every contributor in [http://github.com/binaryage/totalspaces2-i18n/contributors
 **To be clear. Please note that:**
 
 1. It is not guaranteed that I will accept changes in your fork
-2. You are contributing your work under [MIT style license](https://raw.github.com/binaryage/totalspaces-i18n/master/license.txt)
+2. You are contributing your work under [MIT style license](https://raw.github.com/binaryage/totalspaces2-i18n/master/license.txt)
 3. You may want to explore [Network Graph](http://github.com/binaryage/totalspaces2-i18n/network) to see if someone has been already working on your language
 
 #### License: [MIT-Style](https://raw.github.com/binaryage/totalspaces2-i18n/master/license.txt)
