@@ -1,0 +1,372 @@
+/* Registration dialog */
+"Registration" = "Registrering";
+
+/* Registration dialog */
+"Please enter your license details from the email we have sent you:" = "Skriv in dina licensuppgifter som du hittar i e-postmeddelandet vi skickat dig";
+
+/* Registration dialog */
+"Register" = "Registrera";
+
+/* Registration dialog */
+"Buy TotalSpaces2 Now" = "Köp TotalSpaces2 nu";
+
+/* Registration dialog */
+"Invalid license code" = "Ogiltig licenskod";
+
+/* Registration dialog */
+"Please go back and try again." = "Försök på nytt.";
+
+/* Registration dialog */
+"To purchase a license for TotalSpaces2, please visit BinaryAge web store." = "Besök BinaryAge nätbutik för att köpa licens för TotalSpaces2.";
+
+/* Registration dialog */
+"Back" = "Tillbaka";
+
+/* Registration dialog */
+"Thanks for registering!" = "Tack för att du registrerat!";
+
+/* Registration dialog */
+"This TotalSpaces2 copy is licensed to:" = "Denna kopia av TotalSpaces2 är licensierad till:";
+
+/* Registration dialog */
+"Change License" = "Ändra licens";
+
+/* Registration dialog */
+"Close" = "Stäng";
+
+/* Registration dialog */
+"TotalSpaces2 Registration" = "Registrera TotalSpaces2";
+
+/* Registration dialog */
+"Licensed to" = "Licensierad till";
+
+/* Registration dialog */
+"Thank you for using TotalSpaces2!" = "Tack för att du använder TotalSpaces2!";
+
+/* Registration dialog */
+"Trial period finished - Please buy TotalSpaces2" = "Försöksperioden har löpt ut - vänligen köp TotalSpaces2";
+
+/* Registration dialog /*
+"Trial version" = "Trial version";
+
+/* Registration dialog - http://unicode.org/repos/cldr-tmp/trunk/diff/supplemental/language_plural_rules.html */
+"%d days left##{other}" = "%d dagar kvar";
+
+/* Registration dialog */
+"%d days left##{one}" = "%d dag kvar";
+
+/* Registration dialog */
+"Buy now!" = "Köp nu!";
+
+/* non grid desktop name for menu */
+"%@ (not in grid)" = "%@ (inte i rutnät)";
+
+/* default numbered desktop name */
+"%ld (Desktop)" = "%ld (Skrivbord)";
+
+/* default fullscreen desktop name when fullscreen is in the grid */
+"%ld (Fullscreen)" = "%ld (Helskärm)";
+
+/* default fullscreen desktop name when fullscreen is not in the grid */
+"(Fullscreen)" = "(Helskärm)";
+
+/* 3 finger swipe dialog */
+"3 finger swiping" = "Svep med 3 fingrar";
+
+/* No comment provided by engineer. */
+"About" = "Om";
+
+/* No comment provided by engineer. */
+"About (Unregistered)" = "Om (Oregistrerad)";
+
+/* add/remove desktops button */
+"Add desktops" = "Lägg till skrivbord";
+
+/* Toolbar item name for the Advanced preference pane */
+"Advanced" = "Avancerat";
+
+/* Toolbar item name for the App Spaces preference pane */
+"Apps" = "Program";
+
+/* No comment provided by engineer. */
+"Check for updates" = "Kolla uppdateringar";
+
+/* Toolbar item name for the Circulation preference pane */
+"Circulation" = "Rotation";
+
+/* dashboard name shown in menu */
+"Dashboard" = "Instrumentpanel";
+
+/* Toolbar item name for the General preference pane */
+"General" = "Allmänt";
+
+/* Toolbar item name for the Hotcorners preference pane */
+"Hotcorners" = "Hotcorners";
+
+/* Toolbar item name for the Hotkeys preference pane */
+"Hotkeys" = "Snabbtangenter";
+
+/* Toolbar item name for the Layout preference pane */
+"Layout" = "Layout";
+
+/* 3 finger swipe dialog
+   hotkey cannot be assigned dialog */
+"OK" = "OK";
+
+/* Hotkey already in use dialog */
+"Cancel" = "Cancel";
+
+/* No comment provided by engineer. */
+"Overview grid" = "Översiktsrutnät";
+
+/* 3 finger swipe dialog */
+"Please note that we recommend turning off Three finger drag in the Point & Click section of Trackpad preferences (in System Preferences), otherwise the actions may activate simultaneously" = "Vänligen notera att vi rekommenderar att du deaktiverar Svep med 3 fingrar i avdelningen för Peka & klicka i preferenserna för styrplattan (i Systempreferenser), annars kan mekanismerna aktiveras simultant";
+
+/* hotkeys */
+"Please use a different combination, or check in keyboard preferences that it is not already assigned" = "Vänligen använd en annan kombination, alternativt kontrollera i Tangentbordspreferenser att kombinationen inte redan är i användning.";
+
+/* Preferences window */
+"Preferences" = "Preferenser";
+
+/* No comment provided by engineer. */
+"Quit" = "Avsluta";
+
+/* add/remove desktops button */
+"Remove desktops" = "Avlägsna skrivbord";
+
+/* unshow menu bar dialog */
+"Menu bar item removal" = "Borttagning av statuspost";
+
+/* hotkeys */
+"That key combination could not be assigned" = "Denna tangentkombination kan inte tilldelas";
+
+/* hotkeys */
+"That key combination is already in use" = "Denna tangentkombination är redan i användning";
+
+/* hotkeys */
+"The system rejected the assignment even though we tried to force it" = "Systemet avvisade tilldelningen trots att vi insisterade";
+
+/* unshow menu bar dialog */
+"To see the menu bar item again, you can double-click the application in your Applications folder" = "För att kunna se statusfältposten på nytt kan du dubbelklicka ifrågavarande program i  Programmappen";
+
+/* Toolbar item name for the Transitions preference pane */
+"Transitions" = "Övergångar";
+
+/* No comment provided by engineer. */
+"Trial period expired" = "Försöksperioden har löpt ut";
+
+/* hotkey already in use dialog */
+"Use anyway" = "Använd ändå";
+
+/* layout desktop status label single */
+"You have %ld desktops##{one}" = "Du har %ld skrivbord";
+
+/* layout desktop status label plural */
+"You have %ld desktops##{other}" = "Du har %ld skrivbord";
+
+/* layout desktop requirements label single */
+"You need %ld desktops##{one}" = "Du behöver %ld skrivbord";
+
+/* layout desktop requirements label plural */
+"You need %ld desktops##{other}" = "Du behöver %ld skrivbord";
+
+/* Hotkeys prefs */
+"Change space" = "Change space";
+
+/* Hotkeys prefs */
+"Move current window" = "Move current window";
+
+/* Hotkeys prefs */
+"Arrow keys with" = "Arrow keys with";
+
+/* Hotkeys prefs */
+"Hotkey" = "Snabbtangent";
+
+/* Hotkeys prefs */
+"Mouse" = "Mus";
+
+/* Hotkeys prefs */
+"Instant exposé" = "Omedelbar exposé";
+
+/* Hotkeys prefs */
+"Toggle exposé" = "Toggle exposé";
+
+/* Hotkeys prefs */
+"Space bar" = "Space bar";
+
+/* Hotkeys prefs */
+"Use the space bar to toggle exposé when using the overview grid" = "Använd mellanslagstangenten för att växla till exposé när du använder översiktsrutnätet";
+
+/* Hotkeys prefs */
+"Choose button" = "Välj knapp";
+
+/* Hotkeys prefs */
+"3rd/middle button" = "3:e/mittersta knappen";
+
+/* Hotkeys prefs */
+"4th button" = "4:e knappen";
+
+/* Hotkeys prefs */
+"5th button" = "5:e knappen";
+
+/* Hotkeys prefs popover */
+"Left" = "Vänster";
+
+/* Hotkeys prefs popover */
+"Right" = "Höger";
+
+/* Hotkeys prefs popover */
+"Up" = "Upp";
+
+/* Hotkeys prefs popover */
+"Down" = "Ner";
+
+/* Hotkeys prefs popover */
+"Arrow keys" = "Arrow keys";
+
+/* Hotkeys prefs popover */
+"Custom" = "Custom";
+
+/* General prefs */
+"Start TotalSpaces2 at Login" = "Starta TotalSpaces2 vid inloggning";
+
+/* General prefs */
+"Show notification graphic on desktop change" = "Visa anmälnigsgsgrafik vid byte av skrivbord ";
+
+/* General prefs */
+"Hide menu bar icon" = "Göm ikon för menyfält";
+
+/* General prefs */
+"Automatically check for updates" = "Kolla uppdateringar automatiskt";
+
+/* General prefs */
+"Zoom to overview grid animation" = "Zooma för översikt av rutnätsanimation";
+
+/* General prefs */
+"Desktop backgrounds in the overview grid" = "Bakgrunder i översiktsrutnätet";
+
+/* General prefs grid backgrounds */
+"Hi res" = "Högresolution";
+
+/* General prefs grid backgrounds */
+"Lo res" = "Lågresolution";
+
+/* General prefs grid backgrounds */
+"None (fastest)" = "Ingen (snabbast)";
+
+/* General prefs grid zoom */
+"Desktop zoom" = "Desktop zoom";
+
+/* General prefs grid zoom */
+"Whole grid zoom" = "Whole grid zoom";
+
+/* General prefs grid zoom */
+"None" = "None";
+
+/* Circulation prefs */
+"Enable circulation" = "Aktivera rotation";
+
+/* Circulation prefs */
+"Circulate vertically (join top row to bottom row)" = "Rotera vertikalt (anslut översta raden till nedersta raden)";
+
+/* Circulation prefs */
+"Right end of row joins to left end of:" = "Radens högra ända ansluter till vänster ända av:";
+
+/* Circulation prefs */
+"Next row" = "Följande rad";
+
+/* Circulation prefs */
+"Same row" = "Samma rad";
+
+/* App binding prefs */
+"Application" = "Program";
+
+/* App binding prefs */
+"Desktop" = "Skribord";
+
+/* App binding prefs */
+"Use this panel to assign apps to specific desktops" = "Här kan du tilldela program till specifika skrivbord";
+
+/* Transitions prefs */
+"Use transitions" = "Använd övergångar";
+
+/* Transitions prefs */
+"Animation" = "Animation";
+
+/* Transitions prefs */
+"Slide" = "Glid";
+
+/* Transitions prefs */
+"Cube" = "Kub";
+
+/* Transitions prefs */
+"Flip" = "Vänd";
+
+/* Transitions prefs */
+"Reveal" = "Uppenbara";
+
+/* Transitions prefs */
+"Fade" = "Tona bort";
+
+/* Transitions prefs */
+"Inside cube" = "Inside cube";
+
+/* Transitions prefs */
+"Speed" = "Hastighet";
+
+/* Transitions prefs */
+"Slow" = "Långsam";
+
+/* Transitions prefs */
+"Fast" = "Snabb";
+
+/* Transitions prefs */
+"Swipe to change space" = "Svep för att byta rum";
+
+/* Transitions prefs */
+"3 fingers" = "3 fingrar";
+
+/* Transitions prefs */
+"4 fingers" = "4 fingrar";
+
+/* Transitions prefs */
+"5 fingers" = "5 fingrar";
+
+/* Transitions prefs */
+"Invert swipe direction" = "Byt riktning för svep";
+
+/* Transitions prefs */
+"Change space by moving mouse to the edge of the screen" = "Byt rum genom att föra musen till skärmens kant";
+
+/* Transitions prefs */
+"With key" = "Med tangent";
+
+/* Layout prefs - naming popup */
+"Name" = "Namn";
+
+/* Layout prefs - naming popup */
+"Done" = "Klar";
+
+/* Layout prefs */
+"For this grid" = "För detta rutnät";
+
+/* Layout prefs */
+"Rows:" = "Rows:";
+
+/* Layout prefs */
+"Columns:" = "Columns:";
+
+/* Layout prefs */
+"Select display" = "Select display";
+
+
+/* Hotcorners prefs */
+"Show overview grid" = "Visa översiktsrutnät";
+
+/* Hotcorners prefs */
+"Exposé (when in grid)" = "Exposé (i rutnät)";
+
+/* Hotcorners prefs */
+"Overview grid with exposé" = "Översiktsrutnät med exposé";
+
+

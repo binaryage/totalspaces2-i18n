@@ -1,0 +1,372 @@
+/* Registration dialog */
+"Registration" = "Registration";
+
+/* Registration dialog */
+"Please enter your license details from the email we have sent you:" = "Please enter your license details from the email we have sent you:";
+
+/* Registration dialog */
+"Register" = "Register";
+
+/* Registration dialog */
+"Buy TotalSpaces2 Now" = "Buy TotalSpaces2 Now";
+
+/* Registration dialog */
+"Invalid license code" = "Invalid license code";
+
+/* Registration dialog */
+"Please go back and try again." = "Please go back and try again.";
+
+/* Registration dialog */
+"To purchase a license for TotalSpaces2, please visit BinaryAge web store." = "To purchase a license for TotalSpaces2, please visit the BinaryAge web store.";
+
+/* Registration dialog */
+"Back" = "Back";
+
+/* Registration dialog */
+"Thanks for registering!" = "Thanks for registering!";
+
+/* Registration dialog */
+"This TotalSpaces2 copy is licensed to:" = "This TotalSpaces2 copy is licensed to:";
+
+/* Registration dialog */
+"Change License" = "Change License";
+
+/* Registration dialog */
+"Close" = "Close";
+
+/* Registration dialog */
+"TotalSpaces2 Registration" = "TotalSpaces2 Registration";
+
+/* Registration dialog */
+"Licensed to" = "Licensed to";
+
+/* Registration dialog */
+"Thank you for using TotalSpaces2!" = "Thank you for using TotalSpaces2!";
+
+/* Registration dialog */
+"Trial period finished - Please buy TotalSpaces2" = "Trial period finished - Please buy TotalSpaces2";
+
+/* Registration dialog /*
+"Trial version" = "Trial version";
+
+/* Registration dialog - http://unicode.org/repos/cldr-tmp/trunk/diff/supplemental/language_plural_rules.html */
+"%d days left##{other}" = "%d days left";
+
+/* Registration dialog */
+"%d days left##{one}" = "%d day left";
+
+/* Registration dialog */
+"Buy now!" = "Buy now!";
+
+/* non grid desktop name for menu */
+"%@ (not in grid)" = "%@ (not in grid)";
+
+/* default numbered desktop name */
+"%ld (Desktop)" = "%ld (Desktop)";
+
+/* default fullscreen desktop name when fullscreen is in the grid */
+"%ld (Fullscreen)" = "%ld (Fullscreen)";
+
+/* default fullscreen desktop name when fullscreen is not in the grid */
+"(Fullscreen)" = "(Fullscreen)";
+
+/* 3 finger swipe dialog */
+"3 finger swiping" = "3 finger swiping";
+
+/* No comment provided by engineer. */
+"About" = "About";
+
+/* No comment provided by engineer. */
+"About (Unregistered)" = "About (Unregistered)";
+
+/* add/remove desktops button */
+"Add desktops" = "Add desktops";
+
+/* Toolbar item name for the Advanced preference pane */
+"Advanced" = "Advanced";
+
+/* Toolbar item name for the App Spaces preference pane */
+"Apps" = "Apps";
+
+/* No comment provided by engineer. */
+"Check for updates" = "Check for updates";
+
+/* Toolbar item name for the Circulation preference pane */
+"Circulation" = "Circulation";
+
+/* dashboard name shown in menu */
+"Dashboard" = "Dashboard";
+
+/* Toolbar item name for the General preference pane */
+"General" = "General";
+
+/* Toolbar item name for the Hotcorners preference pane */
+"Hotcorners" = "Hotcorners";
+
+/* Toolbar item name for the Hotkeys preference pane */
+"Hotkeys" = "Hotkeys";
+
+/* Toolbar item name for the Layout preference pane */
+"Layout" = "Layout";
+
+/* 3 finger swipe dialog
+   hotkey cannot be assigned dialog */
+"OK" = "OK";
+
+/* Hotkey already in use dialog */
+"Cancel" = "Cancel";
+
+/* No comment provided by engineer. */
+"Overview grid" = "Overview grid";
+
+/* 3 finger swipe dialog */
+"Please note that we recommend turning off Three finger drag in the Point & Click section of Trackpad preferences (in System Preferences), otherwise the actions may activate simultaneously" = "Please note that we recommend turning off Three finger drag in the Point & Click section of Trackpad preferences (in System Preferences), otherwise the actions may activate simultaneously";
+
+/* hotkeys */
+"Please use a different combination, or check in keyboard preferences that it is not already assigned" = "Please use a different combination, or check in keyboard preferences that it is not already assigned";
+
+/* Preferences window */
+"Preferences" = "Preferences";
+
+/* No comment provided by engineer. */
+"Quit" = "Quit";
+
+/* add/remove desktops button */
+"Remove desktops" = "Remove desktops";
+
+/* unshow menu bar dialog */
+"Menu bar item removal" = "Menu bar item removal";
+
+/* hotkeys */
+"That key combination could not be assigned" = "That key combination could not be assigned";
+
+/* hotkeys */
+"That key combination is already in use" = "That key combination is already in use";
+
+/* hotkeys */
+"The system rejected the assignment even though we tried to force it" = "The system rejected the assignment even though we tried to force it";
+
+/* unshow menu bar dialog */
+"To see the menu bar item again, you can double-click the application in your Applications folder" = "To see the menu bar item again, you can double-click the application in your Applications folder";
+
+/* Toolbar item name for the Transitions preference pane */
+"Transitions" = "Transitions";
+
+/* No comment provided by engineer. */
+"Trial period expired" = "Trial period expired";
+
+/* hotkey already in use dialog */
+"Use anyway" = "Use anyway";
+
+/* layout desktop status label single */
+"You have %ld desktops##{one}" = "You have %ld desktop";
+
+/* layout desktop status label plural */
+"You have %ld desktops##{other}" = "You have %ld desktops";
+
+/* layout desktop requirements label single */
+"You need %ld desktops##{one}" = "You need %ld desktop";
+
+/* layout desktop requirements label plural */
+"You need %ld desktops##{other}" = "You need %ld desktops";
+
+/* Hotkeys prefs */
+"Change space" = "Change space";
+
+/* Hotkeys prefs */
+"Move current window" = "Move current window";
+
+/* Hotkeys prefs */
+"Arrow keys with" = "Arrow keys with";
+
+/* Hotkeys prefs */
+"Hotkey" = "Hotkey";
+
+/* Hotkeys prefs */
+"Mouse" = "Mouse";
+
+/* Hotkeys prefs */
+"Instant exposé" = "Instant exposé";
+
+/* Hotkeys prefs */
+"Toggle exposé" = "Toggle exposé";
+
+/* Hotkeys prefs */
+"Space bar" = "Space bar";
+
+/* Hotkeys prefs */
+"Use the space bar to toggle exposé when using the overview grid" = "Use the space bar to toggle exposé when using the overview grid";
+
+/* Hotkeys prefs */
+"Choose button" = "Choose button";
+
+/* Hotkeys prefs */
+"3rd/middle button" = "3rd/middle button";
+
+/* Hotkeys prefs */
+"4th button" = "4th button";
+
+/* Hotkeys prefs */
+"5th button" = "5th button";
+
+/* Hotkeys prefs popover */
+"Left" = "Left";
+
+/* Hotkeys prefs popover */
+"Right" = "Right";
+
+/* Hotkeys prefs popover */
+"Up" = "Up";
+
+/* Hotkeys prefs popover */
+"Down" = "Down";
+
+/* Hotkeys prefs popover */
+"Arrow keys" = "Arrow keys";
+
+/* Hotkeys prefs popover */
+"Custom" = "Custom";
+
+/* General prefs */
+"Start TotalSpaces2 at Login" = "Start TotalSpaces2 at Login";
+
+/* General prefs */
+"Show notification graphic on desktop change" = "Show notification graphic on desktop change";
+
+/* General prefs */
+"Hide menu bar icon" = "Hide menu bar icon";
+
+/* General prefs */
+"Automatically check for updates" = "Automatically check for updates";
+
+/* General prefs */
+"Zoom to overview grid animation" = "Zoom to overview grid animation";
+
+/* General prefs */
+"Desktop backgrounds in the overview grid" = "Backgrounds in the overview grid";
+
+/* General prefs grid backgrounds */
+"Hi res" = "Hi res";
+
+/* General prefs grid backgrounds */
+"Lo res" = "Lo res";
+
+/* General prefs grid backgrounds */
+"None (fastest)" = "None (fastest)";
+
+/* General prefs grid zoom */
+"Desktop zoom" = "Desktop zoom";
+
+/* General prefs grid zoom */
+"Whole grid zoom" = "Whole grid zoom";
+
+/* General prefs grid zoom */
+"None" = "None";
+
+/* Circulation prefs */
+"Enable circulation" = "Enable circulation";
+
+/* Circulation prefs */
+"Circulate vertically (join top row to bottom row)" = "Circulate vertically (join top row to bottom row)";
+
+/* Circulation prefs */
+"Right end of row joins to left end of:" = "Right end of row joins to left end of:";
+
+/* Circulation prefs */
+"Next row" = "Next row";
+
+/* Circulation prefs */
+"Same row" = "Same row";
+
+/* App binding prefs */
+"Application" = "Application";
+
+/* App binding prefs */
+"Desktop" = "Desktop";
+
+/* App binding prefs */
+"Use this panel to assign apps to specific desktops" = "Use this panel to assign apps to specific desktops";
+
+/* Transitions prefs */
+"Use transitions" = "Use transitions";
+
+/* Transitions prefs */
+"Animation" = "Animation";
+
+/* Transitions prefs */
+"Slide" = "Slide";
+
+/* Transitions prefs */
+"Cube" = "Cube";
+
+/* Transitions prefs */
+"Flip" = "Flip";
+
+/* Transitions prefs */
+"Reveal" = "Reveal";
+
+/* Transitions prefs */
+"Fade" = "Fade";
+
+/* Transitions prefs */
+"Inside cube" = "Inside cube";
+
+/* Transitions prefs */
+"Speed" = "Speed";
+
+/* Transitions prefs */
+"Slow" = "Slow";
+
+/* Transitions prefs */
+"Fast" = "Fast";
+
+/* Transitions prefs */
+"Swipe to change space" = "Swipe to change space";
+
+/* Transitions prefs */
+"3 fingers" = "3 fingers";
+
+/* Transitions prefs */
+"4 fingers" = "4 fingers";
+
+/* Transitions prefs */
+"5 fingers" = "5 fingers";
+
+/* Transitions prefs */
+"Invert swipe direction" = "Invert swipe direction";
+
+/* Transitions prefs */
+"Change space by moving mouse to the edge of the screen" = "Change space by moving mouse to the edge of the screen";
+
+/* Transitions prefs */
+"With key" = "With key";
+
+/* Layout prefs - naming popup */
+"Name" = "Name";
+
+/* Layout prefs - naming popup */
+"Done" = "Done";
+
+/* Layout prefs */
+"For this grid" = "For this grid";
+
+/* Layout prefs */
+"Rows:" = "Rows:";
+
+/* Layout prefs */
+"Columns:" = "Columns:";
+
+/* Layout prefs */
+"Select display" = "Select display";
+
+
+/* Hotcorners prefs */
+"Show overview grid" = "Show overview grid";
+
+/* Hotcorners prefs */
+"Exposé (when in grid)" = "Toggle exposé (in grid)";
+
+/* Hotcorners prefs */
+"Overview grid with exposé" = "Overview grid with exposé";
+
+

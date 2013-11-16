@@ -1,0 +1,372 @@
+/* Registration dialog */
+"Registration" = "Registrace";
+
+/* Registration dialog */
+"Please enter your license details from the email we have sent you:" = "Prosím zadejte licenční údaje z emailu, který jsme Vám zaslali:";
+
+/* Registration dialog */
+"Register" = "Registrovat";
+
+/* Registration dialog */
+"Buy TotalSpaces2 Now" = "Koupit TotalSpaces2";
+
+/* Registration dialog */
+"Invalid license code" = "Neplatný licenční klíč";
+
+/* Registration dialog */
+"Please go back and try again." = "Prosím jděte zpět a zkuste to znovu.";
+
+/* Registration dialog */
+"To purchase a license for TotalSpaces2, please visit BinaryAge web store." = "Pro zakoupení licence na TotalSpaces2 prosím navštivte webový obchod BinaryAge.";
+
+/* Registration dialog */
+"Back" = "Zpět";
+
+/* Registration dialog */
+"Thanks for registering!" = "Díky za registraci!";
+
+/* Registration dialog */
+"This TotalSpaces2 copy is licensed to:" = "Tato kopie TotalSpaces2 je licencována:";
+
+/* Registration dialog */
+"Change License" = "Změnit licenci";
+
+/* Registration dialog */
+"Close" = "Zavřít";
+
+/* Registration dialog */
+"TotalSpaces2 Registration" = "Registrace TotalSpaces2";
+
+/* Registration dialog */
+"Licensed to" = "Licencováno:";
+
+/* Registration dialog */
+"Thank you for using TotalSpaces2!" = "Děkujeme, že používáte TotalSpaces2!";
+
+/* Registration dialog */
+"Trial period finished - Please buy TotalSpaces2" = "Zkušební doba vypršela - prosím zakupte si TotalSpaces2";
+
+/* Registration dialog /*
+"Trial version" = "Trial version";
+
+/* Registration dialog - http://unicode.org/repos/cldr-tmp/trunk/diff/supplemental/language_plural_rules.html */
+"%d days left##{other}" = "zbývá %d dnů";
+
+/* Registration dialog */
+"%d days left##{one}" = "zbývá %d den";
+
+/* Registration dialog */
+"Buy now!" = "Koupit nyní!";
+
+/* non grid desktop name for menu */
+"%@ (not in grid)" = "%@ (není v mřížce)";
+
+/* default numbered desktop name */
+"%ld (Desktop)" = "%ld (Plocha)";
+
+/* default fullscreen desktop name when fullscreen is in the grid */
+"%ld (Fullscreen)" = "%ld (Celá obrazovka)";
+
+/* default fullscreen desktop name when fullscreen is not in the grid */
+"(Fullscreen)" = "(Celá obrazovka)";
+
+/* 3 finger swipe dialog */
+"3 finger swiping" = "přejetí třemi prsty";
+
+/* No comment provided by engineer. */
+"About" = "O programu";
+
+/* No comment provided by engineer. */
+"About (Unregistered)" = "O programu (Neregistrováno)";
+
+/* add/remove desktops button */
+"Add desktops" = "Přidat plochy";
+
+/* Toolbar item name for the Advanced preference pane */
+"Advanced" = "Pokročilé";
+
+/* Toolbar item name for the App Spaces preference pane */
+"Apps" = "Applikace";
+
+/* No comment provided by engineer. */
+"Check for updates" = "Vyhledat aktualizace";
+
+/* Toolbar item name for the Circulation preference pane */
+"Circulation" = "Napojení";
+
+/* dashboard name shown in menu */
+"Dashboard" = "Nástěnka";
+
+/* Toolbar item name for the General preference pane */
+"General" = "Obecné";
+
+/* Toolbar item name for the Hotcorners preference pane */
+"Hotcorners" = "Aktivní rohy";
+
+/* Toolbar item name for the Hotkeys preference pane */
+"Hotkeys" = "Klávesy";
+
+/* Toolbar item name for the Layout preference pane */
+"Layout" = "Rozmístění";
+
+/* 3 finger swipe dialog
+   hotkey cannot be assigned dialog */
+"OK" = "OK";
+
+/* Hotkey already in use dialog */
+"Cancel" = "Cancel";
+
+/* No comment provided by engineer. */
+"Overview grid" = "Mřížka s přehledem";
+
+/* 3 finger swipe dialog */
+"Please note that we recommend turning off Three finger drag in the Point & Click section of Trackpad preferences (in System Preferences), otherwise the actions may activate simultaneously" = "Doporučujeme vypnout přejetí třemi prsty v nastavení Trackpadu (v Předvolbách systému)";
+
+/* hotkeys */
+"Please use a different combination, or check in keyboard preferences that it is not already assigned" = "Prosím použijte jinou kombinaci nebo zkontrolujte Klávesové zkratky v Předvolbách systému, jestli zkratka není už přiřazena.";
+
+/* Preferences window */
+"Preferences" = "Nastavení";
+
+/* No comment provided by engineer. */
+"Quit" = "Ukončit";
+
+/* add/remove desktops button */
+"Remove desktops" = "Odstranit plochy";
+
+/* unshow menu bar dialog */
+"Menu bar item removal" = "Odstranění status ikony";
+
+/* hotkeys */
+"That key combination could not be assigned" = "Tato klávesová zkratka nemůže být přiřazena";
+
+/* hotkeys */
+"That key combination is already in use" = "Tato klávesová zkratka je už používána";
+
+/* hotkeys */
+"The system rejected the assignment even though we tried to force it" = "Systém odmítl klávesovou zkratku přiřadit";
+
+/* unshow menu bar dialog */
+"To see the menu bar item again, you can double-click the application in your Applications folder" = "Pro zobrazení status ikony můžete dvojkliknout na TotalSpaces2.app ve složce Applications";
+
+/* Toolbar item name for the Transitions preference pane */
+"Transitions" = "Přechody";
+
+/* No comment provided by engineer. */
+"Trial period expired" = "Zkušební verze vypršela";
+
+/* hotkey already in use dialog */
+"Use anyway" = "Použít i přez varování";
+
+/* layout desktop status label single */
+"You have %ld desktops##{one}" = "Máte %ld plochu";
+
+/* layout desktop status label plural */
+"You have %ld desktops##{other}" = "Máte %ld ploch";
+
+/* layout desktop requirements label single */
+"You need %ld desktops##{one}" = "Potřebujete %ld plochu";
+
+/* layout desktop requirements label plural */
+"You need %ld desktops##{other}" = "Potřebujete %ld ploch";
+
+/* Hotkeys prefs */
+"Change space" = "Change space";
+
+/* Hotkeys prefs */
+"Move current window" = "Move current window";
+
+/* Hotkeys prefs */
+"Arrow keys with" = "Arrow keys with";
+
+/* Hotkeys prefs */
+"Hotkey" = "Klávesa";
+
+/* Hotkeys prefs */
+"Mouse" = "Myš";
+
+/* Hotkeys prefs */
+"Instant exposé" = "Instantní exposé";
+
+/* Hotkeys prefs */
+"Toggle exposé" = "Toggle exposé";
+
+/* Hotkeys prefs */
+"Space bar" = "Space bar";
+
+/* Hotkeys prefs */
+"Use the space bar to toggle exposé when using the overview grid" = "Používat mezerník pro přechod na exposé při otevřené mřížce s přehledem";
+
+/* Hotkeys prefs */
+"Choose button" = "Vyberte tlačítko";
+
+/* Hotkeys prefs */
+"3rd/middle button" = "prostřední tlačítko";
+
+/* Hotkeys prefs */
+"4th button" = "čtvrté tlačítko";
+
+/* Hotkeys prefs */
+"5th button" = "páte tlačítko";
+
+/* Hotkeys prefs popover */
+"Left" = "Vlevo";
+
+/* Hotkeys prefs popover */
+"Right" = "Vpravo";
+
+/* Hotkeys prefs popover */
+"Up" = "Nahoře";
+
+/* Hotkeys prefs popover */
+"Down" = "Dole";
+
+/* Hotkeys prefs popover */
+"Arrow keys" = "Arrow keys";
+
+/* Hotkeys prefs popover */
+"Custom" = "Custom";
+
+/* General prefs */
+"Start TotalSpaces2 at Login" = "Spouštět TotalSpaces2 po přihlášení";
+
+/* General prefs */
+"Show notification graphic on desktop change" = "Zobrazovat lokaci při změně plochy";
+
+/* General prefs */
+"Hide menu bar icon" = "Skrýt status ikonu v pravé oblasti menu";
+
+/* General prefs */
+"Automatically check for updates" = "Automaticky provádět kontrolu aktualizací";
+
+/* General prefs */
+"Zoom to overview grid animation" = "Animovat přechod na mřížku s přehledem";
+
+/* General prefs */
+"Desktop backgrounds in the overview grid" = "Zobrazovat pozadí na plochách v mřižce s přehledem";
+
+/* General prefs grid backgrounds */
+"Hi res" = "Vysoké rozlišení";
+
+/* General prefs grid backgrounds */
+"Lo res" = "Nízké rozlišení";
+
+/* General prefs grid backgrounds */
+"None (fastest)" = "Žádné (nejrychlejší)";
+
+/* General prefs grid zoom */
+"Desktop zoom" = "Desktop zoom";
+
+/* General prefs grid zoom */
+"Whole grid zoom" = "Whole grid zoom";
+
+/* General prefs grid zoom */
+"None" = "None";
+
+/* Circulation prefs */
+"Enable circulation" = "Zapnout kruhové napojení";
+
+/* Circulation prefs */
+"Circulate vertically (join top row to bottom row)" = "Napojit vertikálně (přechod mezi horním a dolním řádkem)";
+
+/* Circulation prefs */
+"Right end of row joins to left end of:" = "Pravý konec se napojí na levý konec:";
+
+/* Circulation prefs */
+"Next row" = "Dalšího řádku";
+
+/* Circulation prefs */
+"Same row" = "Stejného řádku";
+
+/* App binding prefs */
+"Application" = "Aplikace";
+
+/* App binding prefs */
+"Desktop" = "Plocha";
+
+/* App binding prefs */
+"Use this panel to assign apps to specific desktops" = "Tento panel slouží k přiřazení aplikací na specifické plochy";
+
+/* Transitions prefs */
+"Use transitions" = "Používat přechody";
+
+/* Transitions prefs */
+"Animation" = "Animace";
+
+/* Transitions prefs */
+"Slide" = "Vklouznutí";
+
+/* Transitions prefs */
+"Cube" = "Krychle";
+
+/* Transitions prefs */
+"Flip" = "Přetočení";
+
+/* Transitions prefs */
+"Reveal" = "Odkrytí";
+
+/* Transitions prefs */
+"Fade" = "Objevení";
+
+/* Transitions prefs */
+"Inside cube" = "Inside cube";
+
+/* Transitions prefs */
+"Speed" = "Rychlost";
+
+/* Transitions prefs */
+"Slow" = "Pomalu";
+
+/* Transitions prefs */
+"Fast" = "Rychle";
+
+/* Transitions prefs */
+"Swipe to change space" = "Přejetí prsty pro změnu plochy";
+
+/* Transitions prefs */
+"3 fingers" = "3 prsty";
+
+/* Transitions prefs */
+"4 fingers" = "4 prsty";
+
+/* Transitions prefs */
+"5 fingers" = "5 prstů";
+
+/* Transitions prefs */
+"Invert swipe direction" = "Obrátit směr přejíždění";
+
+/* Transitions prefs */
+"Change space by moving mouse to the edge of the screen" = "Změnit plochu při přejetí myši na kraj obrazovky";
+
+/* Transitions prefs */
+"With key" = "Klávesou";
+
+/* Layout prefs - naming popup */
+"Name" = "Jméno";
+
+/* Layout prefs - naming popup */
+"Done" = "Hotovo";
+
+/* Layout prefs */
+"For this grid" = "Pro tuto mřižku";
+
+/* Layout prefs */
+"Rows:" = "Rows:";
+
+/* Layout prefs */
+"Columns:" = "Columns:";
+
+/* Layout prefs */
+"Select display" = "Select display";
+
+
+/* Hotcorners prefs */
+"Show overview grid" = "Zobrazit mřížku s přehledem";
+
+/* Hotcorners prefs */
+"Exposé (when in grid)" = "Povolit exposé (na mřížce s přehledem)";
+
+/* Hotcorners prefs */
+"Overview grid with exposé" = "Mřížka s přehledem s exposé";
+
+

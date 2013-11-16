@@ -1,0 +1,372 @@
+/* Registration dialog */
+"Registration" = "Kayıt";
+
+/* Registration dialog */
+"Please enter your license details from the email we have sent you:" = "Lütfen size gönderdiğimiz epostadaki lisans detaylarını giriniz:";
+
+/* Registration dialog */
+"Register" = "Kayıt";
+
+/* Registration dialog */
+"Buy TotalSpaces2 Now" = "TotalSpaces2'i şimdi satın alın";
+
+/* Registration dialog */
+"Invalid license code" = "Geçersiz lisans kodu";
+
+/* Registration dialog */
+"Please go back and try again." = "Lütfen geriye dönüp tekrar deneyin.";
+
+/* Registration dialog */
+"To purchase a license for TotalSpaces2, please visit BinaryAge web store." = "TotalSpaces2 lisansı satın almak için lütfen BinaryAge web sitesi ziyaret edin.";
+
+/* Registration dialog */
+"Back" = "Geri";
+
+/* Registration dialog */
+"Thanks for registering!" = "Kaydolduğunuz için teşekkürler!";
+
+/* Registration dialog */
+"This TotalSpaces2 copy is licensed to:" = "Bu TotalSpaces2 kopyasının lisans sahibi:";
+
+/* Registration dialog */
+"Change License" = "Lisansı değiştir";
+
+/* Registration dialog */
+"Close" = "Kapat";
+
+/* Registration dialog */
+"TotalSpaces2 Registration" = "TotalSpaces2 Kayıt";
+
+/* Registration dialog */
+"Licensed to" = "Lisans sahibi";
+
+/* Registration dialog */
+"Thank you for using TotalSpaces2!" = "TotalSpaces2'i kullandığınız için teşekkürler!";
+
+/* Registration dialog */
+"Trial period finished - Please buy TotalSpaces2" = "Deneme süresi sona erdi - Lütfen TotalSpaces2'i satın alın";
+
+/* Registration dialog /*
+"Trial version" = "Trial version";
+
+/* Registration dialog - http://unicode.org/repos/cldr-tmp/trunk/diff/supplemental/language_plural_rules.html */
+"%d days left##{other}" = "%d gün kaldı";
+
+/* Registration dialog */
+"%d days left##{one}" = "%d days left##{one}";
+
+/* Registration dialog */
+"Buy now!" = "Şimdi satın alın!";
+
+/* non grid desktop name for menu */
+"%@ (not in grid)" = "%@ (ızgarada değil)";
+
+/* default numbered desktop name */
+"%ld (Desktop)" = "%ld (Masaüstü)";
+
+/* default fullscreen desktop name when fullscreen is in the grid */
+"%ld (Fullscreen)" = "%ld (Tam ekran)";
+
+/* default fullscreen desktop name when fullscreen is not in the grid */
+"(Fullscreen)" = "(Tam ekran)";
+
+/* 3 finger swipe dialog */
+"3 finger swiping" = "3 parmak kaydırma";
+
+/* No comment provided by engineer. */
+"About" = "Hakkında";
+
+/* No comment provided by engineer. */
+"About (Unregistered)" = "Hakkında (Kayıtsız)";
+
+/* add/remove desktops button */
+"Add desktops" = "Masaüstü ekle";
+
+/* Toolbar item name for the Advanced preference pane */
+"Advanced" = "İleri düzey";
+
+/* Toolbar item name for the App Spaces preference pane */
+"Apps" = "Programlar";
+
+/* No comment provided by engineer. */
+"Check for updates" = "Güncellemeleri kontrol et";
+
+/* Toolbar item name for the Circulation preference pane */
+"Circulation" = "Çevrim";
+
+/* dashboard name shown in menu */
+"Dashboard" = "Dashboard";
+
+/* Toolbar item name for the General preference pane */
+"General" = "Genel";
+
+/* Toolbar item name for the Hotcorners preference pane */
+"Hotcorners" = "Sıcak köşeler";
+
+/* Toolbar item name for the Hotkeys preference pane */
+"Hotkeys" = "Kısayollar";
+
+/* Toolbar item name for the Layout preference pane */
+"Layout" = "Dizilim";
+
+/* 3 finger swipe dialog
+   hotkey cannot be assigned dialog */
+"OK" = "Tamam";
+
+/* Hotkey already in use dialog */
+"Cancel" = "Cancel";
+
+/* No comment provided by engineer. */
+"Overview grid" = "Özet ızgarası";
+
+/* 3 finger swipe dialog */
+"Please note that we recommend turning off Three finger drag in the Point & Click section of Trackpad preferences (in System Preferences), otherwise the actions may activate simultaneously" = "İzleme Dörtgeni tercihlerinde (Sistem Tercihleri'nde) İşaret Etme ve Tıklama bölümü altındaki Üç parmakla sürükle ayarını kapatmanızı öneriyoruz, aksi takdirde eylemler aynı anda gerçekleşebilir";
+
+/* hotkeys */
+"Please use a different combination, or check in keyboard preferences that it is not already assigned" = "Lütfen farklı bir kombinasyon deneyin, veya klavye tercihlerinde kombinasyonun daha önce atanmadığını kontrol edin";
+
+/* Preferences window */
+"Preferences" = "Tercihler";
+
+/* No comment provided by engineer. */
+"Quit" = "TotalSpaces2'den çık";
+
+/* add/remove desktops button */
+"Remove desktops" = "Masaüstlerini kaldır";
+
+/* unshow menu bar dialog */
+"Menu bar item removal" = "Durum çubuğunu kaldır";
+
+/* hotkeys */
+"That key combination could not be assigned" = "Seçtiğiniz tuş kombinasyonu atanamadı";
+
+/* hotkeys */
+"That key combination is already in use" = "Seçtiğiniz tuş kombinasyonu kullanımda";
+
+/* hotkeys */
+"The system rejected the assignment even though we tried to force it" = "Zorlamamıza rağmen sistem atamayı reddetti";
+
+/* unshow menu bar dialog */
+"To see the menu bar item again, you can double-click the application in your Applications folder" = "Durum çubuğunu tekrar görmek için, Uygulamalar klasöründeki uygulamaya çift tıklayabilirsiniz";
+
+/* Toolbar item name for the Transitions preference pane */
+"Transitions" = "Geçişler";
+
+/* No comment provided by engineer. */
+"Trial period expired" = "Deneme süresi sona erdi";
+
+/* hotkey already in use dialog */
+"Use anyway" = "Yine de kullan";
+
+/* layout desktop status label single */
+"You have %ld desktops##{one}" = "%ld masaüstünüz var";
+
+/* layout desktop status label plural */
+"You have %ld desktops##{other}" = "%ld masaüstünüz var";
+
+/* layout desktop requirements label single */
+"You need %ld desktops##{one}" = "%ld masaüstüne ihtiyacınız var";
+
+/* layout desktop requirements label plural */
+"You need %ld desktops##{other}" = "%ld masaüstüne ihtiyacınız var";
+
+/* Hotkeys prefs */
+"Change space" = "Change space";
+
+/* Hotkeys prefs */
+"Move current window" = "Move current window";
+
+/* Hotkeys prefs */
+"Arrow keys with" = "Arrow keys with";
+
+/* Hotkeys prefs */
+"Hotkey" = "Kısayol";
+
+/* Hotkeys prefs */
+"Mouse" = "Fare";
+
+/* Hotkeys prefs */
+"Instant exposé" = "Anında exposé";
+
+/* Hotkeys prefs */
+"Toggle exposé" = "Toggle exposé";
+
+/* Hotkeys prefs */
+"Space bar" = "Space bar";
+
+/* Hotkeys prefs */
+"Use the space bar to toggle exposé when using the overview grid" = "Özet ızgaradayken boşluk çubuğu ile exposé'yi aç/kapa";
+
+/* Hotkeys prefs */
+"Choose button" = "Buton seçin";
+
+/* Hotkeys prefs */
+"3rd/middle button" = "Üçüncü/orta buton";
+
+/* Hotkeys prefs */
+"4th button" = "Dördüncü buton";
+
+/* Hotkeys prefs */
+"5th button" = "Beşinci buton";
+
+/* Hotkeys prefs popover */
+"Left" = "Sol";
+
+/* Hotkeys prefs popover */
+"Right" = "Sağ";
+
+/* Hotkeys prefs popover */
+"Up" = "Yukarı";
+
+/* Hotkeys prefs popover */
+"Down" = "Aşağı";
+
+/* Hotkeys prefs popover */
+"Arrow keys" = "Arrow keys";
+
+/* Hotkeys prefs popover */
+"Custom" = "Custom";
+
+/* General prefs */
+"Start TotalSpaces2 at Login" = "TotalSpaces2'i oturum açıldığında aç";
+
+/* General prefs */
+"Show notification graphic on desktop change" = "Masaüstü değişikliğinde bilgilendirme ekranını göster";
+
+/* General prefs */
+"Hide menu bar icon" = "Menü çubuğu simgesini gizle";
+
+/* General prefs */
+"Automatically check for updates" = "Güncellemeleri otomatik kontrol et";
+
+/* General prefs */
+"Zoom to overview grid animation" = "Zoom to overview grid animation";
+
+/* General prefs */
+"Desktop backgrounds in the overview grid" = "Özet ızgarasında arkaplanlar";
+
+/* General prefs grid backgrounds */
+"Hi res" = "Yüksek çöz.";
+
+/* General prefs grid backgrounds */
+"Lo res" = "Düşük çöz.";
+
+/* General prefs grid backgrounds */
+"None (fastest)" = "Hiçbiri (en hızlı)";
+
+/* General prefs grid zoom */
+"Desktop zoom" = "Desktop zoom";
+
+/* General prefs grid zoom */
+"Whole grid zoom" = "Whole grid zoom";
+
+/* General prefs grid zoom */
+"None" = "None";
+
+/* Circulation prefs */
+"Enable circulation" = "Dolaşımı etkin kıl";
+
+/* Circulation prefs */
+"Circulate vertically (join top row to bottom row)" = "Düşey olarak dolaş (Üst ve alt satırları bağla)";
+
+/* Circulation prefs */
+"Right end of row joins to left end of:" = "Satırın en sağı nereye bağlansın:";
+
+/* Circulation prefs */
+"Next row" = "Sonraki satır";
+
+/* Circulation prefs */
+"Same row" = "Önceki satır";
+
+/* App binding prefs */
+"Application" = "Uygulama";
+
+/* App binding prefs */
+"Desktop" = "Masaüstü";
+
+/* App binding prefs */
+"Use this panel to assign apps to specific desktops" = "Uygulamaları belirli masaüstlerine atamak için bu paneli kullanın";
+
+/* Transitions prefs */
+"Use transitions" = "Geçişleri kullan";
+
+/* Transitions prefs */
+"Animation" = "Animasyon";
+
+/* Transitions prefs */
+"Slide" = "Kay";
+
+/* Transitions prefs */
+"Cube" = "Küp";
+
+/* Transitions prefs */
+"Flip" = "Dön";
+
+/* Transitions prefs */
+"Reveal" = "Açığa çıkar";
+
+/* Transitions prefs */
+"Fade" = "Sol";
+
+/* Transitions prefs */
+"Inside cube" = "Inside cube";
+
+/* Transitions prefs */
+"Speed" = "Hız";
+
+/* Transitions prefs */
+"Slow" = "Yavaş";
+
+/* Transitions prefs */
+"Fast" = "Hızlı";
+
+/* Transitions prefs */
+"Swipe to change space" = "Alan değiştirmek için kaydır";
+
+/* Transitions prefs */
+"3 fingers" = "3 parmak";
+
+/* Transitions prefs */
+"4 fingers" = "4 parmak";
+
+/* Transitions prefs */
+"5 fingers" = "5 parmak";
+
+/* Transitions prefs */
+"Invert swipe direction" = "Kaydırma yönünü tersine çevir";
+
+/* Transitions prefs */
+"Change space by moving mouse to the edge of the screen" = "Fareyi ekranın köşesine hareket ettirerek alan değiştir";
+
+/* Transitions prefs */
+"With key" = "Tuş ile";
+
+/* Layout prefs - naming popup */
+"Name" = "İsim";
+
+/* Layout prefs - naming popup */
+"Done" = "Tamam";
+
+/* Layout prefs */
+"For this grid" = "Bu ızgara için";
+
+/* Layout prefs */
+"Rows:" = "Rows:";
+
+/* Layout prefs */
+"Columns:" = "Columns:";
+
+/* Layout prefs */
+"Select display" = "Select display";
+
+
+/* Hotcorners prefs */
+"Show overview grid" = "Özet ızgarayı göster";
+
+/* Hotcorners prefs */
+"Exposé (when in grid)" = "Exposé (ızgaradayken)";
+
+/* Hotcorners prefs */
+"Overview grid with exposé" = "Overview grid with exposé";
+
+

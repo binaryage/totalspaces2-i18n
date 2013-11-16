@@ -1,0 +1,372 @@
+/* Registration dialog */
+"Registration" = "Registracija";
+
+/* Registration dialog */
+"Please enter your license details from the email we have sent you:" = "Molimo unesite podatke o licenci iz email poruke koju smo Vam poslali:";
+
+/* Registration dialog */
+"Register" = "Registriraj";
+
+/* Registration dialog */
+"Buy TotalSpaces2 Now" = "Kupi TotalSpaces2 Sada";
+
+/* Registration dialog */
+"Invalid license code" = "Neispravna licenca";
+
+/* Registration dialog */
+"Please go back and try again." = "Molimo, vratite se natrag i pokušajte opet.";
+
+/* Registration dialog */
+"To purchase a license for TotalSpaces2, please visit BinaryAge web store." = "Za kupnju licence za TotalSpaces2, molimo Vas posjetite BinaryAge web trgovinu.";
+
+/* Registration dialog */
+"Back" = "Natrag";
+
+/* Registration dialog */
+"Thanks for registering!" = "Hvala na registraciji!";
+
+/* Registration dialog */
+"This TotalSpaces2 copy is licensed to:" = "Ova kopija TotalSpaces2-a glasi na:";
+
+/* Registration dialog */
+"Change License" = "Izmijeni Licencu";
+
+/* Registration dialog */
+"Close" = "Zatvori";
+
+/* Registration dialog */
+"TotalSpaces2 Registration" = "TotalSpaces2 Registracija";
+
+/* Registration dialog */
+"Licensed to" = "Licencirano za";
+
+/* Registration dialog */
+"Thank you for using TotalSpaces2!" = "Hvala na korištenju TotalSpaces2-a!";
+
+/* Registration dialog */
+"Trial period finished - Please buy TotalSpaces2" = "Probni rok je istekao - molimo kupite TotalSpaces2";
+
+/* Registration dialog /*
+"Trial version" = "Probna verzija";
+
+/* Registration dialog - http://unicode.org/repos/cldr-tmp/trunk/diff/supplemental/language_plural_rules.html */
+"%d days left##{other}" = "%d dana preostalo";
+
+/* Registration dialog */
+"%d days left##{one}" = "%d dan preostao";
+
+/* Registration dialog */
+"Buy now!" = "Kupite sada!";
+
+/* non grid desktop name for menu */
+"%@ (not in grid)" = "%@ (nije u mreži)";
+
+/* default numbered desktop name */
+"%ld (Desktop)" = "%ld (Radna površina)";
+
+/* default fullscreen desktop name when fullscreen is in the grid */
+"%ld (Fullscreen)" = "%ld (Aplikacija preko cijelog zaslona)";
+
+/* default fullscreen desktop name when fullscreen is not in the grid */
+"(Fullscreen)" = "(Aplikacija preko cijelog zaslona)";
+
+/* 3 finger swipe dialog */
+"3 finger swiping" = "Prijelaz sa 3 prsta";
+
+/* No comment provided by engineer. */
+"About" = "O aplikaciji";
+
+/* No comment provided by engineer. */
+"About (Unregistered)" = "O aplikaciji (Neregistrirano)";
+
+/* add/remove desktops button */
+"Add desktops" = "Dodaj radne površine";
+
+/* Toolbar item name for the Advanced preference pane */
+"Advanced" = "Napredno";
+
+/* Toolbar item name for the App Spaces preference pane */
+"Apps" = "Aplikacije";
+
+/* No comment provided by engineer. */
+"Check for updates" = "Provjeri nadogradnje";
+
+/* Toolbar item name for the Circulation preference pane */
+"Circulation" = "Krużenje";
+
+/* dashboard name shown in menu */
+"Dashboard" = "Dashboard";
+
+/* Toolbar item name for the General preference pane */
+"General" = "Općenito";
+
+/* Toolbar item name for the Hotcorners preference pane */
+"Hotcorners" = "Vrući uglovi";
+
+/* Toolbar item name for the Hotkeys preference pane */
+"Hotkeys" = "Kratice";
+
+/* Toolbar item name for the Layout preference pane */
+"Layout" = "Raspored";
+
+/* 3 finger swipe dialog
+   hotkey cannot be assigned dialog */
+"OK" = "U redu";
+
+/* Hotkey already in use dialog */
+"Cancel" = "Cancel";
+
+/* No comment provided by engineer. */
+"Overview grid" = "Pregled mreže";
+
+/* 3 finger swipe dialog */
+"Please note that we recommend turning off Three finger drag in the Point & Click section of Trackpad preferences (in System Preferences), otherwise the actions may activate simultaneously" = "Preporućamo gašenje opcije povlačenja s tri prsta u postavkama Trackpada (u Sistemskim Postavkama), inače se akcije mogu aktivirati istovremeno";
+
+/* hotkeys */
+"Please use a different combination, or check in keyboard preferences that it is not already assigned" = "Molimo, koristite drugu kombinaciju, ili provjerite da li se ta kombinacija već koristi u postavkama tipkovnice";
+
+/* Preferences window */
+"Preferences" = "Postavke";
+
+/* No comment provided by engineer. */
+"Quit" = "Izlaz";
+
+/* add/remove desktops button */
+"Remove desktops" = "Ukloni radne površine";
+
+/* unshow menu bar dialog */
+"Menu bar item removal" = "Uklanjanje ikone u traci izbornika";
+
+/* hotkeys */
+"That key combination could not be assigned" = "Ta kombinacija tipki se ne može dodijeliti";
+
+/* hotkeys */
+"That key combination is already in use" = "Ta kombinacija tipki se već koristi";
+
+/* hotkeys */
+"The system rejected the assignment even though we tried to force it" = "Sustav je odbacio dodjelu, iako smo je pokušali forsirati";
+
+/* unshow menu bar dialog */
+"To see the menu bar item again, you can double-click the application in your Applications folder" = "Kako biste opet vidjeli ikonu u radnoj traci, mozete napraviti dvostruki klik na aplikaciju us mapi Applications";
+
+/* Toolbar item name for the Transitions preference pane */
+"Transitions" = "Prijelazi";
+
+/* No comment provided by engineer. */
+"Trial period expired" = "Probna verzija istekla";
+
+/* hotkey already in use dialog */
+"Use anyway" = "Koristi unatoč";
+
+/* layout desktop status label single */
+"You have %ld desktops##{one}" = "Imate %ld površinu";
+
+/* layout desktop status label plural */
+"You have %ld desktops##{other}" = "Imate %ld radnih površina";
+
+/* layout desktop requirements label single */
+"You need %ld desktops##{one}" = "Treba vam %ld radna površina";
+
+/* layout desktop requirements label plural */
+"You need %ld desktops##{other}" = "Treba vam %ld radnih površina";
+
+/* Hotkeys prefs */
+"Change space" = "Change space";
+
+/* Hotkeys prefs */
+"Move current window" = "Move current window";
+
+/* Hotkeys prefs */
+"Arrow keys with" = "Arrow keys with";
+
+/* Hotkeys prefs */
+"Hotkey" = "Kratica";
+
+/* Hotkeys prefs */
+"Mouse" = "Miš";
+
+/* Hotkeys prefs */
+"Instant exposé" = "Trenutni exposé";
+
+/* Hotkeys prefs */
+"Toggle exposé" = "Toggle exposé";
+
+/* Hotkeys prefs */
+"Space bar" = "Space bar";
+
+/* Hotkeys prefs */
+"Use the space bar to toggle exposé when using the overview grid" = "Koristi razmaknicu za paljenje/gašenje exposé-a u pregledu mreže";
+
+/* Hotkeys prefs */
+"Choose button" = "Odaberi tipku";
+
+/* Hotkeys prefs */
+"3rd/middle button" = "3./srednja tipka";
+
+/* Hotkeys prefs */
+"4th button" = "4. tipka";
+
+/* Hotkeys prefs */
+"5th button" = "5. tipka";
+
+/* Hotkeys prefs popover */
+"Left" = "Lijevo";
+
+/* Hotkeys prefs popover */
+"Right" = "Desno";
+
+/* Hotkeys prefs popover */
+"Up" = "Gore";
+
+/* Hotkeys prefs popover */
+"Down" = "Dolje";
+
+/* Hotkeys prefs popover */
+"Arrow keys" = "Arrow keys";
+
+/* Hotkeys prefs popover */
+"Custom" = "Custom";
+
+/* General prefs */
+"Start TotalSpaces2 at Login" = "Pokreni TotalSpaces2 kod Prijave";
+
+/* General prefs */
+"Show notification graphic on desktop change" = "Prikaži vizualnu obavijest kod promjene radne površine";
+
+/* General prefs */
+"Hide menu bar icon" = "Sakrij ikonu u radnoj traci";
+
+/* General prefs */
+"Automatically check for updates" = "Automatski provjeri nadogradnje";
+
+/* General prefs */
+"Zoom to overview grid animation" = "Zoom za pregled animacije mreže";
+
+/* General prefs */
+"Desktop backgrounds in the overview grid" = "Pozadine u pregledu mreže";
+
+/* General prefs grid backgrounds */
+"Hi res" = "Visoka rezolucija";
+
+/* General prefs grid backgrounds */
+"Lo res" = "Niska rezolucija";
+
+/* General prefs grid backgrounds */
+"None (fastest)" = "Ništa (najbrže)";
+
+/* General prefs grid zoom */
+"Desktop zoom" = "Desktop zoom";
+
+/* General prefs grid zoom */
+"Whole grid zoom" = "Whole grid zoom";
+
+/* General prefs grid zoom */
+"None" = "None";
+
+/* Circulation prefs */
+"Enable circulation" = "Omogući kruženje";
+
+/* Circulation prefs */
+"Circulate vertically (join top row to bottom row)" = "Kruži vertikalno (spoji gornji red s donjim)";
+
+/* Circulation prefs */
+"Right end of row joins to left end of:" = "Desni kraj reda spaja se sa lijevim krajem:";
+
+/* Circulation prefs */
+"Next row" = "Sljedeći red";
+
+/* Circulation prefs */
+"Same row" = "Isti red";
+
+/* App binding prefs */
+"Application" = "Aplikacija";
+
+/* App binding prefs */
+"Desktop" = "Radna površina";
+
+/* App binding prefs */
+"Use this panel to assign apps to specific desktops" = "Koristite ovu ploču za dodjelu aplikacija pojedinim radnim površinama";
+
+/* Transitions prefs */
+"Use transitions" = "Koristi prijelaze";
+
+/* Transitions prefs */
+"Animation" = "Animacija";
+
+/* Transitions prefs */
+"Slide" = "Kliži";
+
+/* Transitions prefs */
+"Cube" = "Kocka";
+
+/* Transitions prefs */
+"Flip" = "Okret";
+
+/* Transitions prefs */
+"Reveal" = "Otkrij";
+
+/* Transitions prefs */
+"Fade" = "Izblijedi";
+
+/* Transitions prefs */
+"Inside cube" = "Inside cube";
+
+/* Transitions prefs */
+"Speed" = "Brzina";
+
+/* Transitions prefs */
+"Slow" = "Sporo";
+
+/* Transitions prefs */
+"Fast" = "Brzo";
+
+/* Transitions prefs */
+"Swipe to change space" = "Prijelaz prstima za promjenu prostora";
+
+/* Transitions prefs */
+"3 fingers" = "3 prsta";
+
+/* Transitions prefs */
+"4 fingers" = "4 prsta";
+
+/* Transitions prefs */
+"5 fingers" = "5 prstiju";
+
+/* Transitions prefs */
+"Invert swipe direction" = "Izokrenuti smijer prijelaza prstima";
+
+/* Transitions prefs */
+"Change space by moving mouse to the edge of the screen" = "Promijeni prostor pomicanjem miša na rub ekrana";
+
+/* Transitions prefs */
+"With key" = "S tipkom";
+
+/* Layout prefs - naming popup */
+"Name" = "Ime";
+
+/* Layout prefs - naming popup */
+"Done" = "Gotovo";
+
+/* Layout prefs */
+"For this grid" = "Za ovu mrežu";
+
+/* Layout prefs */
+"Rows:" = "Rows:";
+
+/* Layout prefs */
+"Columns:" = "Columns:";
+
+/* Layout prefs */
+"Select display" = "Select display";
+
+
+/* Hotcorners prefs */
+"Show overview grid" = "Prikaži pregled mreže";
+
+/* Hotcorners prefs */
+"Exposé (when in grid)" = "Pali/gasi exposé (u mreži)";
+
+/* Hotcorners prefs */
+"Overview grid with exposé" = "Pregled mreže s exposé-om";
+
+
