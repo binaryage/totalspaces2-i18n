@@ -1,0 +1,372 @@
+/* Registration dialog */
+"Registration" = "輸入序列號";
+
+/* Registration dialog */
+"Please enter your license details from the email we have sent you:" = "請根據我們發給您的郵件輸入許可證的詳細信息:";
+
+/* Registration dialog */
+"Register" = "註冊";
+
+/* Registration dialog */
+"Buy TotalSpaces2 Now" = "立刻購買";
+
+/* Registration dialog */
+"Invalid license code" = "無效的許可證";
+
+/* Registration dialog */
+"Please go back and try again." = "請返回並重試。";
+
+/* Registration dialog */
+"To purchase a license for TotalSpaces2, please visit BinaryAge web store." = "請訪問BinaryAge在線商店購買TotalSpaces2的許可證。";
+
+/* Registration dialog */
+"Back" = "返回";
+
+/* Registration dialog */
+"Thanks for registering!" = "感謝您的註冊與支持！";
+
+/* Registration dialog */
+"This TotalSpaces2 copy is licensed to:" = "該TotalSpaces2副本被授權給：";
+
+/* Registration dialog */
+"Change License" = "更換許可證";
+
+/* Registration dialog */
+"Close" = "關閉";
+
+/* Registration dialog */
+"TotalSpaces2 Registration" = "TotalSpaces2 註冊";
+
+/* Registration dialog */
+"Licensed to" = "授權給";
+
+/* Registration dialog */
+"Thank you for using TotalSpaces2!" = "感謝您使用TotalSpaces2!";
+
+/* Registration dialog */
+"Trial period finished - Please buy TotalSpaces2" = "試用期結束 - 請購買TotalSpaces2";
+
+/* Registration dialog /*
+"Trial version" = "試用版";
+
+/* Registration dialog - http://unicode.org/repos/cldr-tmp/trunk/diff/supplemental/language_plural_rules.html */
+"%d days left##{other}" = "還剩 %d 天";
+
+/* Registration dialog */
+"%d days left##{one}" = "還剩 %d 天";
+
+/* Registration dialog */
+"Buy now!" = "立刻購買！";
+
+/* non grid desktop name for menu */
+"%@ (not in grid)" = "%@ (不在網格中)";
+
+/* default numbered desktop name */
+"%ld (Desktop)" = "%ld (桌面)";
+
+/* default fullscreen desktop name when fullscreen is in the grid */
+"%ld (Fullscreen)" = "%ld (全屏)";
+
+/* default fullscreen desktop name when fullscreen is not in the grid */
+"(Fullscreen)" = "(全屏)";
+
+/* 3 finger swipe dialog */
+"3 finger swiping" = "3個手指滑動";
+
+/* No comment provided by engineer. */
+"About" = "關於";
+
+/* No comment provided by engineer. */
+"About (Unregistered)" = "關於 (未註冊)";
+
+/* add/remove desktops button */
+"Add desktops" = "增加桌面";
+
+/* Toolbar item name for the Advanced preference pane */
+"Advanced" = "高級";
+
+/* Toolbar item name for the App Spaces preference pane */
+"Apps" = "Apps";
+
+/* No comment provided by engineer. */
+"Check for updates" = "檢查新版本";
+
+/* Toolbar item name for the Circulation preference pane */
+"Circulation" = "循環";
+
+/* dashboard name shown in menu */
+"Dashboard" = "概覽";
+
+/* Toolbar item name for the General preference pane */
+"General" = "通用";
+
+/* Toolbar item name for the Hotcorners preference pane */
+"Hotcorners" = "觸發角";
+
+/* Toolbar item name for the Hotkeys preference pane */
+"Hotkeys" = "熱鍵";
+
+/* Toolbar item name for the Layout preference pane */
+"Layout" = "佈局";
+
+/* 3 finger swipe dialog
+   hotkey cannot be assigned dialog */
+"OK" = "好";
+
+/* Hotkey already in use dialog */
+"Cancel" = "取消";
+
+/* No comment provided by engineer. */
+"Overview grid" = "概覽視圖";
+
+/* 3 finger swipe dialog */
+"Please note that we recommend turning off Three finger drag in the Point & Click section of Trackpad preferences (in System Preferences), otherwise the actions may activate simultaneously" = "我們建議您在 系統偏好 - 觸控板 中關閉 三指拖移 選項，否則這個操作可能會同時響應造成衝突";
+
+/* hotkeys */
+"Please use a different combination, or check in keyboard preferences that it is not already assigned" = "請使用其它組合, 或者檢查偏好設置中該組合沒有被佔用";
+
+/* Preferences window */
+"Preferences" = "偏好";
+
+/* No comment provided by engineer. */
+"Quit" = "退出";
+
+/* add/remove desktops button */
+"Remove desktops" = "移除桌面";
+
+/* unshow menu bar dialog */
+"Menu bar item removal" = "移除工具欄圖標";
+
+/* hotkeys */
+"That key combination could not be assigned" = "該熱鍵組合無法使用";
+
+/* hotkeys */
+"That key combination is already in use" = "該熱鍵組合已經被佔用";
+
+/* hotkeys */
+"The system rejected the assignment even though we tried to force it" = "系統仍然拒絕該快捷鍵組合，即使我們已經嘗試強制關聯";
+
+/* unshow menu bar dialog */
+"To see the menu bar item again, you can double-click the application in your Applications folder" = "如希望工具欄圖標重新出現，請在應用程序中雙擊打開該程序";
+
+/* Toolbar item name for the Transitions preference pane */
+"Transitions" = "過渡";
+
+/* No comment provided by engineer. */
+"Trial period expired" = "試用已過期";
+
+/* hotkey already in use dialog */
+"Use anyway" = "仍然使用";
+
+/* layout desktop status label single */
+"You have %ld desktops##{one}" = "當前有%ld個桌面";
+
+/* layout desktop status label plural */
+"You have %ld desktops##{other}" = "當前有%ld個桌面";
+
+/* layout desktop requirements label single */
+"You need %ld desktops##{one}" = "你需要%ld個桌面";
+
+/* layout desktop requirements label plural */
+"You need %ld desktops##{other}" = "你需要%ld個桌面";
+
+/* Hotkeys prefs */
+"Change space" = "切換桌面";
+
+/* Hotkeys prefs */
+"Move current window" = "移動當前激活的窗口";
+
+/* Hotkeys prefs */
+"Arrow keys with" = "方向鍵與";
+
+/* Hotkeys prefs */
+"Hotkey" = "熱鍵";
+
+/* Hotkeys prefs */
+"Mouse" = "鼠標";
+
+/* Hotkeys prefs */
+"Instant exposé" = "顯示Exposé";
+
+/* Hotkeys prefs */
+"Toggle exposé" = "切換Exposé";
+
+/* Hotkeys prefs */
+"Space bar" = "空格鍵";
+
+/* Hotkeys prefs */
+"Use the space bar to toggle exposé when using the overview grid" = "當使用概覽視圖時使用空格鍵切換Exposé";
+
+/* Hotkeys prefs */
+"Choose button" = "選擇按鈕";
+
+/* Hotkeys prefs */
+"3rd/middle button" = "第3個按鍵";
+
+/* Hotkeys prefs */
+"4th button" = "第4個按鍵";
+
+/* Hotkeys prefs */
+"5th button" = "第5個按鍵";
+
+/* Hotkeys prefs popover */
+"Left" = "左";
+
+/* Hotkeys prefs popover */
+"Right" = "右";
+
+/* Hotkeys prefs popover */
+"Up" = "上";
+
+/* Hotkeys prefs popover */
+"Down" = "下";
+
+/* Hotkeys prefs popover */
+"Arrow keys" = "方向鍵";
+
+/* Hotkeys prefs popover */
+"Custom" = "自定義";
+
+/* General prefs */
+"Start TotalSpaces2 at Login" = "隨開機自動啓動Totalspaces2";
+
+/* General prefs */
+"Show notification graphic on desktop change" = "切換桌面時顯示指示器";
+
+/* General prefs */
+"Hide menu bar icon" = "隱藏工具欄圖標";
+
+/* General prefs */
+"Automatically check for updates" = "自動檢查更新";
+
+/* General prefs */
+"Zoom to overview grid animation" = "概覽視圖過渡動畫";
+
+/* General prefs */
+"Desktop backgrounds in the overview grid" = "概覽視圖背景";
+
+/* General prefs grid backgrounds */
+"Hi res" = "高分辨率";
+
+/* General prefs grid backgrounds */
+"Lo res" = "低分辨率";
+
+/* General prefs grid backgrounds */
+"None (fastest)" = "無 (最快)";
+
+/* General prefs grid zoom */
+"Desktop zoom" = "僅桌面過渡效果";
+
+/* General prefs grid zoom */
+"Whole grid zoom" = "全局過渡效果";
+
+/* General prefs grid zoom */
+"None" = "關閉";
+
+/* Circulation prefs */
+"Enable circulation" = "開啓循環切換";
+
+/* Circulation prefs */
+"Circulate vertically (join top row to bottom row)" = "垂直循環 (從頂部桌面到底部桌面)";
+
+/* Circulation prefs */
+"Right end of row joins to left end of:" = "最右邊的桌面向右切換至:";
+
+/* Circulation prefs */
+"Next row" = "下一行首";
+
+/* Circulation prefs */
+"Same row" = "相同行首";
+
+/* App binding prefs */
+"Application" = "應用程序";
+
+/* App binding prefs */
+"Desktop" = "桌面";
+
+/* App binding prefs */
+"Use this panel to assign apps to specific desktops" = "使用該面板將應用程序固定在某個桌面";
+
+/* Transitions prefs */
+"Use transitions" = "使用過渡動畫";
+
+/* Transitions prefs */
+"Animation" = "動態效果";
+
+/* Transitions prefs */
+"Slide" = "平移";
+
+/* Transitions prefs */
+"Cube" = "立方體";
+
+/* Transitions prefs */
+"Flip" = "翻轉";
+
+/* Transitions prefs */
+"Reveal" = "側推";
+
+/* Transitions prefs */
+"Fade" = "漸變";
+
+/* Transitions prefs */
+"Inside cube" = "內立方體";
+
+/* Transitions prefs */
+"Speed" = "速度";
+
+/* Transitions prefs */
+"Slow" = "慢";
+
+/* Transitions prefs */
+"Fast" = "快";
+
+/* Transitions prefs */
+"Swipe to change space" = "滑動觸摸板切換桌面";
+
+/* Transitions prefs */
+"3 fingers" = "3個手指";
+
+/* Transitions prefs */
+"4 fingers" = "4個手指";
+
+/* Transitions prefs */
+"5 fingers" = "5個手指";
+
+/* Transitions prefs */
+"Invert swipe direction" = "反轉滑動方向";
+
+/* Transitions prefs */
+"Change space by moving mouse to the edge of the screen" = "使用屏幕熱角切換桌面";
+
+/* Transitions prefs */
+"With key" = "與該按鍵同時使用";
+
+/* Layout prefs - naming popup */
+"Name" = "名稱";
+
+/* Layout prefs - naming popup */
+"Done" = "好";
+
+/* Layout prefs */
+"For this grid" = "對於當前佈局:";
+
+/* Layout prefs */
+"Rows:" = "行:";
+
+/* Layout prefs */
+"Columns:" = "列:";
+
+/* Layout prefs */
+"Select display" = "顯示器";
+
+
+/* Hotcorners prefs */
+"Show overview grid" = "顯示概覽視圖";
+
+/* Hotcorners prefs */
+"Exposé (when in grid)" = "在概覽視圖中切換Exposé";
+
+/* Hotcorners prefs */
+"Overview grid with exposé" = "與Exposé一起顯示概覽視圖";
+
+
