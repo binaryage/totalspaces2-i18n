@@ -240,6 +240,9 @@
 "Automatically check for updates" = "自動でアップデートを確認する";
 
 /* General prefs */
+"Include pre-releases" = "Include pre-releases";
+
+/* General prefs */
 "Zoom to overview grid animation" = "Overview グリッドを表示するときにアニメーションする";
 
 /* General prefs */
@@ -286,6 +289,9 @@
 
 /* App binding prefs */
 "Use this panel to assign apps to specific desktops" = "特定の App を特定のデスクトップに表示するよう設定できます。";
+
+/* App binding prefs */
+"All spaces" = "All spaces";
 
 /* Transitions prefs */
 "Use transitions" = "トランジションを使う";
@@ -346,6 +352,9 @@
 
 /* Layout prefs - naming popup */
 "Done" = "決定";
+
+/* Layout prefs - naming popup */
+"Hotkey for position" = "Hotkey for position";
 
 /* Layout prefs */
 "For this grid" = "このグリッド設定には";

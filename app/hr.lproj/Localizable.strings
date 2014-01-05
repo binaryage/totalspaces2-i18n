@@ -240,6 +240,9 @@
 "Automatically check for updates" = "Automatski provjeri nadogradnje";
 
 /* General prefs */
+"Include pre-releases" = "Include pre-releases";
+
+/* General prefs */
 "Zoom to overview grid animation" = "Zoom za pregled animacije mreže";
 
 /* General prefs */
@@ -286,6 +289,9 @@
 
 /* App binding prefs */
 "Use this panel to assign apps to specific desktops" = "Koristite ovu ploču za dodjelu aplikacija pojedinim radnim površinama";
+
+/* App binding prefs */
+"All spaces" = "All spaces";
 
 /* Transitions prefs */
 "Use transitions" = "Koristi prijelaze";
@@ -346,6 +352,9 @@
 
 /* Layout prefs - naming popup */
 "Done" = "Gotovo";
+
+/* Layout prefs - naming popup */
+"Hotkey for position" = "Hotkey for position";
 
 /* Layout prefs */
 "For this grid" = "Za ovu mrežu";

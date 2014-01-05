@@ -240,6 +240,9 @@
 "Automatically check for updates" = "Automatisch nach Aktualisierungen suchen";
 
 /* General prefs */
+"Include pre-releases" = "Include pre-releases";
+
+/* General prefs */
 "Zoom to overview grid animation" = "In das Übersichtsraster reinzoomen-Animation";
 
 /* General prefs */
@@ -286,6 +289,9 @@
 
 /* App binding prefs */
 "Use this panel to assign apps to specific desktops" = "Anwendung zu Schreibtisch hier zuordnen";
+
+/* App binding prefs */
+"All spaces" = "All spaces";
 
 /* Transitions prefs */
 "Use transitions" = "Übergangseffekte verwenden";
@@ -346,6 +352,9 @@
 
 /* Layout prefs - naming popup */
 "Done" = "Fertig";
+
+/* Layout prefs - naming popup */
+"Hotkey for position" = "Hotkey for position";
 
 /* Layout prefs */
 "For this grid" = "Für dieses Raster";
