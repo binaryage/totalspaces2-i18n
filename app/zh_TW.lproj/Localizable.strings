@@ -240,7 +240,7 @@
 "Automatically check for updates" = "自動檢查更新";
 
 /* General prefs */
-"Include pre-releases" = "Include pre-releases";
+"Include pre-releases" = "包含預發佈的Beta版";
 
 /* General prefs */
 "Zoom to overview grid animation" = "概覽視圖過渡動畫";
@@ -291,7 +291,7 @@
 "Use this panel to assign apps to specific desktops" = "使用該面板將應用程序固定在某個桌面";
 
 /* App binding prefs */
-"All spaces" = "All spaces";
+"All spaces" = "所有桌面";
 
 /* Transitions prefs */
 "Use transitions" = "使用過渡動畫";
@@ -354,7 +354,7 @@
 "Done" = "好";
 
 /* Layout prefs - naming popup */
-"Hotkey for position" = "Hotkey for position";
+"Hotkey for position" = "位置熱鍵";
 
 /* Layout prefs */
 "For this grid" = "對於當前佈局:";
