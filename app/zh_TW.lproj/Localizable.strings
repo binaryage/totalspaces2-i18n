@@ -147,7 +147,7 @@
 "The system rejected the assignment even though we tried to force it" = "系統仍然拒絕該快捷鍵組合，即使我們已經嘗試強制關聯";
 
 /* unshow menu bar dialog */
-"To see the menu bar item again, you can double-click the application in your Applications folder" = "如希望工具欄圖標重新出現，請在應用程序中雙擊打開該程序";
+"To show the preferences, you can double-click the application in your Applications folder" = "如希望工具欄圖標重新出現，請在應用程序中雙擊打開該程序";
 
 /* Toolbar item name for the Transitions preference pane */
 "Transitions" = "過渡";

@@ -147,7 +147,7 @@
 "The system rejected the assignment even though we tried to force it" = "システムによりホットキーの登録が拒否されました。";
 
 /* unshow menu bar dialog */
-"To see the menu bar item again, you can double-click the application in your Applications folder" = "メニューバーに再びアイコンを表示するにはアプリケーションフォルダの TotalSpaces2 をダブルクリックしてください。";
+"To show the preferences, you can double-click the application in your Applications folder" = "メニューバーに再びアイコンを表示するにはアプリケーションフォルダの TotalSpaces2 をダブルクリックしてください。";
 
 /* Toolbar item name for the Transitions preference pane */
 "Transitions" = "トランジション";

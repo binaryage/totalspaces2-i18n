@@ -147,7 +147,7 @@
 "The system rejected the assignment even though we tried to force it" = "Das System lehnt diese Zuordnung ab, selbst als wir es versucht haben";
 
 /* unshow menu bar dialog */
-"To see the menu bar item again, you can double-click the application in your Applications folder" = "Um den Status Eintrag erneut zu sehen, können Sie die Anwendung mit Doppelclick im Anwendungs-Ordner öffnen";
+"To show the preferences, you can double-click the application in your Applications folder" = "Um den Status Eintrag erneut zu sehen, können Sie die Anwendung mit Doppelclick im Anwendungs-Ordner öffnen";
 
 /* Toolbar item name for the Transitions preference pane */
 "Transitions" = "Übergänge";

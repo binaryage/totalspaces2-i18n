@@ -147,7 +147,7 @@
 "The system rejected the assignment even though we tried to force it" = "The system rejected the assignment even though we tried to force it";
 
 /* unshow menu bar dialog */
-"To see the menu bar item again, you can double-click the application in your Applications folder" = "To see the menu bar item again, you can double-click the application in your Applications folder";
+"To show the preferences, you can double-click the application in your Applications folder" = "To show the preferences, you can double-click the application in your Applications folder";
 
 /* Toolbar item name for the Transitions preference pane */
 "Transitions" = "Transitions";

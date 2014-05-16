@@ -147,7 +147,7 @@
 "The system rejected the assignment even though we tried to force it" = "Sustav je odbacio dodjelu, iako smo je pokušali forsirati";
 
 /* unshow menu bar dialog */
-"To see the menu bar item again, you can double-click the application in your Applications folder" = "Kako biste opet vidjeli ikonu u radnoj traci, mozete napraviti dvostruki klik na aplikaciju us mapi Applications";
+"To show the preferences, you can double-click the application in your Applications folder" = "Kako biste opet vidjeli ikonu u radnoj traci, mozete napraviti dvostruki klik na aplikaciju us mapi Applications";
 
 /* Toolbar item name for the Transitions preference pane */
 "Transitions" = "Prijelazi";

@@ -147,7 +147,7 @@
 "The system rejected the assignment even though we tried to force it" = "Zorlamamıza rağmen sistem atamayı reddetti";
 
 /* unshow menu bar dialog */
-"To see the menu bar item again, you can double-click the application in your Applications folder" = "Durum çubuğunu tekrar görmek için, Uygulamalar klasöründeki uygulamaya çift tıklayabilirsiniz";
+"To show the preferences, you can double-click the application in your Applications folder" = "Durum çubuğunu tekrar görmek için, Uygulamalar klasöründeki uygulamaya çift tıklayabilirsiniz";
 
 /* Toolbar item name for the Transitions preference pane */
 "Transitions" = "Geçişler";
