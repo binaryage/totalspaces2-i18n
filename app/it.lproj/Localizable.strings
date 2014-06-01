@@ -1,0 +1,384 @@
+/* Registration dialog */
+"Registration" = "Registrazione";
+
+/* Registration dialog */
+"Please enter your license details from the email we have sent you:" = "Per favore inserisci i dettagli della licenza dall'email che ti abbiamo inviato:";
+
+/* Registration dialog */
+"Register" = "Registrati";
+
+/* Registration dialog */
+"Buy TotalSpaces2 Now" = "Acquista adesso TotalSpaces2";
+
+/* Registration dialog */
+"Invalid license code" = "Codice di licenza non valido";
+
+/* Registration dialog */
+"Please go back and try again." = "Si prega di tornare indietro e riprovare.";
+
+/* Registration dialog */
+"To purchase a license for TotalSpaces2, please visit BinaryAge web store." = "Per acquistare una licenza di TotalSpaces2, visita il web store BinaryAge.";
+
+/* Registration dialog */
+"Back" = "Indietro";
+
+/* Registration dialog */
+"Thanks for registering!" = "Grazie per la registrazione!";
+
+/* Registration dialog */
+"This TotalSpaces2 copy is licensed to:" = "Copia di TotalSpaces2 concessa in licenza a:";
+
+/* Registration dialog */
+"Change License" = "Modifica licenza";
+
+/* Registration dialog */
+"Close" = "Chiudi";
+
+/* Registration dialog */
+"TotalSpaces2 Registration" = "Registrazione di TotalSpaces2";
+
+/* Registration dialog */
+"Licensed to" = "Concesso in licenza a";
+
+/* Registration dialog */
+"Thank you for using TotalSpaces2!" = "Grazie per l'utilizzo di TotalSpaces2!";
+
+/* Registration dialog */
+"Trial period finished - Please buy TotalSpaces2" = "Periodo di prova terminato - Per favore acquista TotalSpaces2";
+
+/* Registration dialog /*
+"Trial version" = "Versione di prova";
+
+/* Registration dialog - http://unicode.org/repos/cldr-tmp/trunk/diff/supplemental/language_plural_rules.html */
+"%d days left##{other}" = "%d giorni rimanenti";
+
+/* Registration dialog */
+"%d days left##{one}" = "%d giorni rimanenti";
+
+/* Registration dialog */
+"Buy now!" = "Acquista!";
+
+/* non grid desktop name for menu */
+"%@ (not in grid)" = "%@ (fuori griglia)";
+
+/* default numbered desktop name */
+"%ld (Desktop)" = "%ld (Desktop)";
+
+/* default fullscreen desktop name when fullscreen is in the grid */
+"%ld (Fullscreen)" = "%ld (Schermo intero)";
+
+/* default fullscreen desktop name when fullscreen is not in the grid */
+"(Fullscreen)" = "(Schermo intero)";
+
+/* 3 finger swipe dialog */
+"3 finger swiping" = "Sfiora con 3 dita";
+
+/* No comment provided by engineer. */
+"About" = "Informazioni";
+
+/* No comment provided by engineer. */
+"About (Unregistered)" = "Informazioni (Non registrato)";
+
+/* add/remove desktops button */
+"Add desktops" = "Aggiungi scrivania";
+
+/* Toolbar item name for the Advanced preference pane */
+"Advanced" = "Avanzate";
+
+/* Toolbar item name for the App Spaces preference pane */
+"Apps" = "Applicazioni";
+
+/* No comment provided by engineer. */
+"Check for updates" = "Controlla aggiornamenti";
+
+/* Toolbar item name for the Circulation preference pane */
+"Circulation" = "Scorrimento";
+
+/* dashboard name shown in menu */
+"Dashboard" = "Dashboard";
+
+/* Toolbar item name for the General preference pane */
+"General" = "Generale";
+
+/* Toolbar item name for the Hotcorners preference pane */
+"Hotcorners" = "Angoli attivi";
+
+/* Toolbar item name for the Hotkeys preference pane */
+"Hotkeys" = "Scorciatoie";
+
+/* Toolbar item name for the Layout preference pane */
+"Layout" = "Layout";
+
+/* 3 finger swipe dialog
+   hotkey cannot be assigned dialog */
+"OK" = "OK";
+
+/* Hotkey already in use dialog */
+"Cancel" = "Annulla";
+
+/* No comment provided by engineer. */
+"Overview grid" = "Griglia panoramica";
+
+/* 3 finger swipe dialog */
+"Please note that we recommend turning off Three finger drag in the Point & Click section of Trackpad preferences (in System Preferences), otherwise the actions may activate simultaneously" = "Si raccomanda di disabilitare Trascina con tre dita nel pannello Punta e fai clic delle impostazioni Trackpad (in Preferenze di Sistema), altrimenti le azioni possono attivarsi simultaneamente";
+
+/* hotkeys */
+"Please use a different combination, or check in keyboard preferences that it is not already assigned" = "Per favore utilizza una combinazione differente, o controla che non sia già stata assegnata nelle impostazioni Tastiera";
+
+/* Preferences window */
+"Preferences" = "Preferenze";
+
+/* No comment provided by engineer. */
+"Quit" = "Esci";
+
+/* add/remove desktops button */
+"Remove desktops" = "Rimuovi scrivanie";
+
+/* unshow menu bar dialog */
+"Menu bar item removal" = "Rimozione voce barra dei menu";
+
+/* hotkeys */
+"That key combination could not be assigned" = "Impossibile assegnare la combinazione di tasti";
+
+/* hotkeys */
+"That key combination is already in use" = "Combinazione di tasti già in uso";
+
+/* hotkeys */
+"The system rejected the assignment even though we tried to force it" = "Il sistema ha rifiutato l'assegnazione nonostante il tentativo di forzarla";
+
+/* unshow menu bar dialog */
+"To show the preferences, you can double-click the application in your Applications folder" = "Per mostrare le preferenze, puoi fare doppio clic sull'applicazione nella cartella Applicazioni";
+
+/* Toolbar item name for the Transitions preference pane */
+"Transitions" = "Transizioni";
+
+/* No comment provided by engineer. */
+"Trial period expired" = "Periodo di prova terminato";
+
+/* hotkey already in use dialog */
+"Use anyway" = "Usa comunque";
+
+/* layout desktop status label single */
+"You have %ld desktops##{one}" = "Hai %ld scrivania";
+
+/* layout desktop status label plural */
+"You have %ld desktops##{other}" = "Hai %ld scrivanie";
+
+/* layout desktop requirements label single */
+"You need %ld desktops##{one}" = "Vuoi %ld scrivania";
+
+/* layout desktop requirements label plural */
+"You need %ld desktops##{other}" = "Vuoi %ld scrivanie";
+
+/* Hotkeys prefs */
+"Change space" = "Cambia spazio";
+
+/* Hotkeys prefs */
+"Move current window" = "Sposta finestra corrente";
+
+/* Hotkeys prefs */
+"Arrow keys with" = "Tasti Freccia con";
+
+/* Hotkeys prefs */
+"Hotkey" = "Scorciatoia";
+
+/* Hotkeys prefs */
+"Mouse" = "Mouse";
+
+/* Hotkeys prefs */
+"Instant exposé" = "Exposé istantaneo";
+
+/* Hotkeys prefs */
+"Instant exposé mouse" = "Exposé istantaneo (mouse)";
+
+/* Hotkeys prefs */
+"Toggle exposé" = "Attiva exposé";
+
+/* Hotkeys prefs */
+"Space bar" = "Barra spaziatrice";
+
+/* Hotkeys prefs */
+"Use the space bar to toggle exposé when using the overview grid" = "Usa la barra spaziatrice per abilitare exposé mentre usi la griglia panoramica";
+
+/* Hotkeys prefs */
+"Choose button" = "Scegli tasto";
+
+/* Hotkeys prefs */
+"3rd/middle button" = "Pulsante centrale";
+
+/* Hotkeys prefs */
+"4th button" = "4° pulsante";
+
+/* Hotkeys prefs */
+"5th button" = "5° pulsante";
+
+/* Hotkeys prefs popover */
+"Left" = "Sinistra";
+
+/* Hotkeys prefs popover */
+"Right" = "Destra";
+
+/* Hotkeys prefs popover */
+"Up" = "Su";
+
+/* Hotkeys prefs popover */
+"Down" = "Giù";
+
+/* Hotkeys prefs popover */
+"Arrow keys" = "Tasti Freccia";
+
+/* Hotkeys prefs popover */
+"Custom" = "Personalizza";
+
+/* General prefs */
+"Start TotalSpaces2 at Login" = "Avvia TotalSpaces2 al Login";
+
+/* General prefs */
+"Show notification graphic on desktop change" = "Mostra notificha grafica al cambio di scrivania";
+
+/* General prefs */
+"Hide menu bar icon" = "Nascondi icona nella barra dei menu";
+
+/* General prefs */
+"Automatically check for updates" = "Controllo aggiornamenti automatico";
+
+/* General prefs */
+"Include pre-releases" = "Includi versioni preliminari";
+
+/* General prefs */
+"Zoom to overview grid animation" = "Animazione per zoom verso griglia panoramica";
+
+/* General prefs */
+"Desktop backgrounds in the overview grid" = "Sfondo griglia panoramica";
+
+/* General prefs grid backgrounds */
+"Hi res" = "Alta risoluzione";
+
+/* General prefs grid backgrounds */
+"Lo res" = "Bassa risoluzione";
+
+/* General prefs grid backgrounds */
+"None (fastest)" = "Nessuno (più veloce)";
+
+/* General prefs grid zoom */
+"Desktop zoom" = "Zoom scrivania";
+
+/* General prefs grid zoom */
+"Whole grid zoom" = "Zoom intera griglia";
+
+/* General prefs grid zoom */
+"None" = "Nessuna";
+
+/* Circulation prefs */
+"Enable circulation" = "Abilita scorrimento circolare";
+
+/* Circulation prefs */
+"Circulate vertically (join top row to bottom row)" = "Scorri verticalmente (unisci riga superiore alla riga inferiore)";
+
+/* Circulation prefs */
+"Right end of row joins to left end of:" = "Estremità destra della riga unita alla sinistra della:";
+
+/* Circulation prefs */
+"Next row" = "Riga successiva";
+
+/* Circulation prefs */
+"Same row" = "Stessa riga";
+
+/* App binding prefs */
+"Application" = "Applicazione";
+
+/* App binding prefs */
+"Desktop" = "Scrivania";
+
+/* App binding prefs */
+"Use this panel to assign apps to specific desktops" = "Usa questo pannello per assegnare applicazioni a scrivanie specifiche";
+
+/* App binding prefs */
+"All spaces" = "Tutti gli spazi";
+
+/* Transitions prefs */
+"Use transitions" = "Usa transizioni";
+
+/* Transitions prefs */
+"Animation" = "Animazione";
+
+/* Transitions prefs */
+"Slide" = "Scorrimento";
+
+/* Transitions prefs */
+"Cube" = "Cubo";
+
+/* Transitions prefs */
+"Flip" = "Ribaltamento";
+
+/* Transitions prefs */
+"Reveal" = "Svelamento";
+
+/* Transitions prefs */
+"Fade" = "Dissolvenza";
+
+/* Transitions prefs */
+"Inside cube" = "Cubo interno";
+
+/* Transitions prefs */
+"Speed" = "Velocità";
+
+/* Transitions prefs */
+"Slow" = "Lenta";
+
+/* Transitions prefs */
+"Fast" = "Veloce";
+
+/* Transitions prefs */
+"Swipe to change space" = "Cambia spazio, sfiora con";
+
+/* Transitions prefs */
+"3 fingers" = "3 dita";
+
+/* Transitions prefs */
+"4 fingers" = "4 dita";
+
+/* Transitions prefs */
+"5 fingers" = "5 dita";
+
+/* Transitions prefs */
+"Invert swipe direction" = "Inverti direzione sfioramento";
+
+/* Transitions prefs */
+"Change space by moving mouse to the edge of the screen" = "Cambia spazio muovendo il mouse all'angolo dello schermo";
+
+/* Transitions prefs */
+"With key" = "Premendo il tasto";
+
+/* Layout prefs - naming popup */
+"Name" = "Nome";
+
+/* Layout prefs - naming popup */
+"Done" = "Fatto";
+
+/* Layout prefs - naming popup */
+"Hotkey for position" = "Scorciatoia selezione";
+
+/* Layout prefs */
+"For this grid" = "Per questa griglia";
+
+/* Layout prefs */
+"Rows:" = "Righe:";
+
+/* Layout prefs */
+"Columns:" = "Colonne:";
+
+/* Layout prefs */
+"Select display" = "Seleziona monitor";
+
+
+/* Hotcorners prefs */
+"Show overview grid" = "Mostra griglia panoramica";
+
+/* Hotcorners prefs */
+"Exposé (when in grid)" = "Abilita exposé (nella griglia)";
+
+/* Hotcorners prefs */
+"Overview grid with exposé" = "Grglia panoramica con exposé";
+
+
