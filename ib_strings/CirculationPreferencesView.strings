@@ -1,0 +1,18 @@
+
+/* Class = "NSTextFieldCell"; title = "Right end of row joins to left end of:"; ObjectID = "7"; */
+"7.title" = "Right end of row joins to left end of:";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "10"; */
+"10.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Next row"; ObjectID = "11"; */
+"11.title" = "Next row";
+
+/* Class = "NSMenuItem"; title = "Same row"; ObjectID = "12"; */
+"12.title" = "Same row";
+
+/* Class = "NSButtonCell"; title = "Enable circulation"; ObjectID = "13"; */
+"13.title" = "Enable circulation";
+
+/* Class = "NSButtonCell"; title = "Circulate vertically (join top row to bottom row)"; ObjectID = "14"; */
+"14.title" = "Circulate vertically (join top row to bottom row)";

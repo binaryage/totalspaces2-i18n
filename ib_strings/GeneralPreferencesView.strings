@@ -1,0 +1,45 @@
+
+/* Class = "NSButtonCell"; title = "Start TotalSpaces2 at Login"; ObjectID = "164"; */
+"164.title" = "Start TotalSpaces2 at Login";
+
+/* Class = "NSButtonCell"; title = "Show notification graphic on desktop change"; ObjectID = "166"; */
+"166.title" = "Show notification graphic on desktop change";
+
+/* Class = "NSButtonCell"; title = "Hide menu bar icon"; ObjectID = "168"; */
+"168.title" = "Hide menu bar icon";
+
+/* Class = "NSTextFieldCell"; title = "Desktop backgrounds in the overview grid"; ObjectID = "239"; */
+"239.title" = "Desktop backgrounds in the overview grid";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "242"; */
+"242.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Hi res"; ObjectID = "243"; */
+"243.title" = "Hi res";
+
+/* Class = "NSMenuItem"; title = "Lo res"; ObjectID = "244"; */
+"244.title" = "Lo res";
+
+/* Class = "NSMenuItem"; title = "None (fastest)"; ObjectID = "245"; */
+"245.title" = "None (fastest)";
+
+/* Class = "NSButtonCell"; title = "Automatically check for updates"; ObjectID = "271"; */
+"271.title" = "Automatically check for updates";
+
+/* Class = "NSMenuItem"; title = "Whole grid zoom"; ObjectID = "ElM-23-4dY"; */
+"ElM-23-4dY.title" = "Whole grid zoom";
+
+/* Class = "NSTextFieldCell"; title = "Zoom to overview grid animation"; ObjectID = "JKQ-KD-Y33"; */
+"JKQ-KD-Y33.title" = "Zoom to overview grid animation";
+
+/* Class = "NSMenuItem"; title = "Desktop zoom"; ObjectID = "YK0-ey-Hmy"; */
+"YK0-ey-Hmy.title" = "Desktop zoom";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "dgq-V5-7Fx"; */
+"dgq-V5-7Fx.title" = "None";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "jOc-yI-cto"; */
+"jOc-yI-cto.title" = "OtherViews";
+
+/* Class = "NSButtonCell"; title = "Include pre-releases"; ObjectID = "kun-TH-xoI"; */
+"kun-TH-xoI.title" = "Include pre-releases";

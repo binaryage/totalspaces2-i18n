@@ -1,0 +1,78 @@
+
+/* Class = "NSWindow"; title = "TotalSpaces2 Registration"; ObjectID = "1"; */
+"1.title" = "TotalSpaces2 Registration";
+
+/* Class = "NSTextFieldCell"; title = "Licensed to"; ObjectID = "17"; */
+"17.title" = "Licensed to";
+
+/* Class = "NSTextFieldCell"; title = "TotalSpaces v1.0.0"; ObjectID = "18"; */
+"18.title" = "TotalSpaces v1.0.0";
+
+/* Class = "NSButtonCell"; title = "Registration"; ObjectID = "19"; */
+"19.title" = "Registration";
+
+/* Class = "NSButtonCell"; title = "Close"; ObjectID = "32"; */
+"32.title" = "Close";
+
+/* Class = "NSTextFieldCell"; title = "Thanks for registering!"; ObjectID = "33"; */
+"33.title" = "Thanks for registering!";
+
+/* Class = "NSTextFieldCell"; title = "This TotalSpaces2 copy is licensed to:"; ObjectID = "34"; */
+"34.title" = "This TotalSpaces2 copy is licensed to:";
+
+/* Class = "NSButtonCell"; title = "Change License"; ObjectID = "36"; */
+"36.title" = "Change License";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Name"; ObjectID = "37"; */
+"37.placeholderString" = "Name";
+
+/* Class = "NSTextFieldCell"; title = "Invalid license code"; ObjectID = "61"; */
+"61.title" = "Invalid license code";
+
+/* Class = "NSButtonCell"; title = "Back"; ObjectID = "62"; */
+"62.title" = "Back";
+
+/* Class = "NSTextFieldCell"; title = "Please go back and try again."; ObjectID = "63"; */
+"63.title" = "Please go back and try again.";
+
+/* Class = "NSButtonCell"; title = "Buy TotalSpaces2 Now"; ObjectID = "73"; */
+"73.title" = "Buy TotalSpaces2 Now";
+
+/* Class = "NSTextFieldCell"; title = "To purchase a license for TotalSpaces2, please visit BinaryAge web store."; ObjectID = "75"; */
+"75.title" = "To purchase a license for TotalSpaces2, please visit BinaryAge web store.";
+
+/* Class = "NSButtonCell"; title = "Buy TotalSpaces2 Now"; ObjectID = "159"; */
+"159.title" = "Buy TotalSpaces2 Now";
+
+/* Class = "NSTextFieldCell"; title = "Registration"; ObjectID = "172"; */
+"172.title" = "Registration";
+
+/* Class = "NSTextFieldCell"; title = "Please enter your license details from the email we have sent you:"; ObjectID = "173"; */
+"173.title" = "Please enter your license details from the email we have sent you:";
+
+/* Class = "NSTextFieldCell"; placeholderString = "License Key"; ObjectID = "174"; */
+"174.placeholderString" = "License Key";
+
+/* Class = "NSTextFieldCell"; placeholderString = "License Name"; ObjectID = "175"; */
+"175.placeholderString" = "License Name";
+
+/* Class = "NSButtonCell"; title = "Register"; ObjectID = "178"; */
+"178.title" = "Register";
+
+/* Class = "NSButtonCell"; title = "Buy TotalSpaces2 Now"; ObjectID = "179"; */
+"179.title" = "Buy TotalSpaces2 Now";
+
+/* Class = "NSTextFieldCell"; title = "Thank you for using TotalSpaces2!"; ObjectID = "188"; */
+"188.title" = "Thank you for using TotalSpaces2!";
+
+/* Class = "NSButtonCell"; title = "Back"; ObjectID = "206"; */
+"206.title" = "Back";
+
+/* Class = "NSButtonCell"; title = "Back"; ObjectID = "210"; */
+"210.title" = "Back";
+
+/* Class = "IBBindingConnection"; ibShadowedIsNilPlaceholder = "License Key"; ObjectID = "VRB-g1-kFP"; */
+"VRB-g1-kFP.ibShadowedIsNilPlaceholder" = "License Key";
+
+/* Class = "IBBindingConnection"; ibShadowedIsNilPlaceholder = "License Name"; ObjectID = "giT-33-Iub"; */
+"giT-33-Iub.ibShadowedIsNilPlaceholder" = "License Name";

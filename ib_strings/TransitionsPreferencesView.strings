@@ -1,0 +1,75 @@
+
+/* Class = "NSButtonCell"; title = "Use transitions"; ObjectID = "9"; */
+"9.title" = "Use transitions";
+
+/* Class = "NSTextFieldCell"; title = "Slow"; ObjectID = "11"; */
+"11.title" = "Slow";
+
+/* Class = "NSTextFieldCell"; title = "Fast"; ObjectID = "14"; */
+"14.title" = "Fast";
+
+/* Class = "NSTextFieldCell"; title = "Speed"; ObjectID = "15"; */
+"15.title" = "Speed";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "20"; */
+"20.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Slide"; ObjectID = "21"; */
+"21.title" = "Slide";
+
+/* Class = "NSTextFieldCell"; title = "Animation"; ObjectID = "88"; */
+"88.title" = "Animation";
+
+/* Class = "NSButtonCell"; title = "Change space by moving mouse to the edge of the screen"; ObjectID = "865"; */
+"865.title" = "Change space by moving mouse to the edge of the screen";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "870"; */
+"870.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Shift ⇧"; ObjectID = "872"; */
+"872.title" = "Shift ⇧";
+
+/* Class = "NSMenuItem"; title = "Alt ⌥"; ObjectID = "873"; */
+"873.title" = "Alt ⌥";
+
+/* Class = "NSTextFieldCell"; title = "With key"; ObjectID = "878"; */
+"878.title" = "With key";
+
+/* Class = "NSMenuItem"; title = "Cmd ⌘"; ObjectID = "881"; */
+"881.title" = "Cmd ⌘";
+
+/* Class = "NSMenuItem"; title = "Ctrl"; ObjectID = "882"; */
+"882.title" = "Ctrl";
+
+/* Class = "NSButtonCell"; title = "Invert swipe direction"; ObjectID = "945"; */
+"945.title" = "Invert swipe direction";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "947"; */
+"947.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "3 fingers"; ObjectID = "948"; */
+"948.title" = "3 fingers";
+
+/* Class = "NSMenuItem"; title = "4 fingers"; ObjectID = "949"; */
+"949.title" = "4 fingers";
+
+/* Class = "NSMenuItem"; title = "5 fingers"; ObjectID = "950"; */
+"950.title" = "5 fingers";
+
+/* Class = "NSButtonCell"; title = "Swipe to change space"; ObjectID = "951"; */
+"951.title" = "Swipe to change space";
+
+/* Class = "NSMenuItem"; title = "Inside cube"; ObjectID = "10s-QF-zDf"; */
+"10s-QF-zDf.title" = "Inside cube";
+
+/* Class = "NSMenuItem"; title = "Reveal"; ObjectID = "F0U-cQ-tb9"; */
+"F0U-cQ-tb9.title" = "Reveal";
+
+/* Class = "NSMenuItem"; title = "Flip"; ObjectID = "SgJ-15-fNF"; */
+"SgJ-15-fNF.title" = "Flip";
+
+/* Class = "NSMenuItem"; title = "Cube"; ObjectID = "kbj-zv-cwJ"; */
+"kbj-zv-cwJ.title" = "Cube";
+
+/* Class = "NSMenuItem"; title = "Fade"; ObjectID = "snD-1t-8Za"; */
+"snD-1t-8Za.title" = "Fade";

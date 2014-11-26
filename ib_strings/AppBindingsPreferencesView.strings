@@ -1,0 +1,21 @@
+
+/* Class = "NSTableColumn"; headerCell.title = "Application"; ObjectID = "8"; */
+"8.headerCell.title" = "Application";
+
+/* Class = "NSTableColumn"; headerCell.title = "Desktop"; ObjectID = "9"; */
+"9.headerCell.title" = "Desktop";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "10"; */
+"10.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "11"; */
+"11.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "+"; ObjectID = "28"; */
+"28.title" = "+";
+
+/* Class = "NSButtonCell"; title = "−"; ObjectID = "51"; */
+"51.title" = "−";
+
+/* Class = "NSTextFieldCell"; title = "Use this panel to assign apps to specific desktops"; ObjectID = "201"; */
+"201.title" = "Use this panel to assign apps to specific desktops";

@@ -1,0 +1,117 @@
+
+/* Class = "NSTextFieldCell"; title = "Overview grid"; ObjectID = "176"; */
+"176.title" = "Overview grid";
+
+/* Class = "NSTextFieldCell"; title = "Toggle exposé"; ObjectID = "209"; */
+"209.title" = "Toggle exposé";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "226"; */
+"226.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Choose button"; ObjectID = "227"; */
+"227.title" = "Choose button";
+
+/* Class = "NSMenuItem"; title = "3rd/middle button"; ObjectID = "228"; */
+"228.title" = "3rd/middle button";
+
+/* Class = "NSMenuItem"; title = "4th button"; ObjectID = "229"; */
+"229.title" = "4th button";
+
+/* Class = "NSMenuItem"; title = "5th button"; ObjectID = "230"; */
+"230.title" = "5th button";
+
+/* Class = "NSTextFieldCell"; title = "Mouse"; ObjectID = "235"; */
+"235.title" = "Mouse";
+
+/* Class = "NSTextFieldCell"; title = "Hotkey"; ObjectID = "239"; */
+"239.title" = "Hotkey";
+
+/* Class = "NSTextFieldCell"; title = "Instant exposé"; ObjectID = "243"; */
+"243.title" = "Instant exposé";
+
+/* Class = "NSTextFieldCell"; title = "Left"; ObjectID = "1ET-iw-hUl"; */
+"1ET-iw-hUl.title" = "Left";
+
+/* Class = "NSTextFieldCell"; title = "+"; ObjectID = "9J0-xw-CZ1"; */
+"9J0-xw-CZ1.title" = "+";
+
+/* Class = "NSTextFieldCell"; title = "+"; ObjectID = "BuK-hY-9mJ"; */
+"BuK-hY-9mJ.title" = "+";
+
+/* Class = "NSMenuItem"; title = "3rd/middle button"; ObjectID = "CI7-9v-7tD"; */
+"CI7-9v-7tD.title" = "3rd/middle button";
+
+/* Class = "NSButtonCell"; title = "Arrow keys"; ObjectID = "HAw-ym-j4K"; */
+"HAw-ym-j4K.title" = "Arrow keys";
+
+/* Class = "NSTextFieldCell"; title = "Space bar"; ObjectID = "I1F-F4-o3a"; */
+"I1F-F4-o3a.title" = "Space bar";
+
+/* Class = "NSMenuItem"; title = "4th button"; ObjectID = "KBq-H8-NIi"; */
+"KBq-H8-NIi.title" = "4th button";
+
+/* Class = "NSButtonCell"; title = "Arrow keys"; ObjectID = "Lvf-fh-0bX"; */
+"Lvf-fh-0bX.title" = "Arrow keys";
+
+/* Class = "NSSegmentedCell"; N6t-rz-TKX.ibShadowedLabels[0] = "⇧"; ObjectID = "N6t-rz-TKX"; */
+"N6t-rz-TKX.ibShadowedLabels[0]" = "⇧";
+
+/* Class = "NSSegmentedCell"; N6t-rz-TKX.ibShadowedLabels[1] = "⌃"; ObjectID = "N6t-rz-TKX"; */
+"N6t-rz-TKX.ibShadowedLabels[1]" = "⌃";
+
+/* Class = "NSSegmentedCell"; N6t-rz-TKX.ibShadowedLabels[2] = "⌥"; ObjectID = "N6t-rz-TKX"; */
+"N6t-rz-TKX.ibShadowedLabels[2]" = "⌥";
+
+/* Class = "NSSegmentedCell"; N6t-rz-TKX.ibShadowedLabels[3] = "⌘"; ObjectID = "N6t-rz-TKX"; */
+"N6t-rz-TKX.ibShadowedLabels[3]" = "⌘";
+
+/* Class = "NSButtonCell"; title = "Done"; ObjectID = "RJi-Q8-NHn"; */
+"RJi-Q8-NHn.title" = "Done";
+
+/* Class = "NSMenuItem"; title = "Choose button"; ObjectID = "Ryf-M2-ctP"; */
+"Ryf-M2-ctP.title" = "Choose button";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "S7x-NF-2gk"; */
+"S7x-NF-2gk.title" = "OtherViews";
+
+/* Class = "NSSegmentedCell"; SZT-ea-VNR.ibShadowedLabels[0] = "Arrow keys"; ObjectID = "SZT-ea-VNR"; */
+"SZT-ea-VNR.ibShadowedLabels[0]" = "Arrow keys";
+
+/* Class = "NSSegmentedCell"; SZT-ea-VNR.ibShadowedLabels[1] = "Custom"; ObjectID = "SZT-ea-VNR"; */
+"SZT-ea-VNR.ibShadowedLabels[1]" = "Custom";
+
+/* Class = "NSTextFieldCell"; title = "Down"; ObjectID = "SzA-3H-JQ1"; */
+"SzA-3H-JQ1.title" = "Down";
+
+/* Class = "NSTextFieldCell"; title = "Up"; ObjectID = "UYb-H9-9Vt"; */
+"UYb-H9-9Vt.title" = "Up";
+
+/* Class = "NSTextFieldCell"; title = "Move current window"; ObjectID = "Vhz-fc-Du5"; */
+"Vhz-fc-Du5.title" = "Move current window";
+
+/* Class = "NSTextFieldCell"; title = "Instant exposé mouse"; ObjectID = "fS9-a9-Jxa"; */
+"fS9-a9-Jxa.title" = "Instant exposé mouse";
+
+/* Class = "NSMenuItem"; title = "5th button"; ObjectID = "gLs-Ph-v3Q"; */
+"gLs-Ph-v3Q.title" = "5th button";
+
+/* Class = "NSSegmentedCell"; hBg-Ac-wp2.ibShadowedLabels[0] = "⇧"; ObjectID = "hBg-Ac-wp2"; */
+"hBg-Ac-wp2.ibShadowedLabels[0]" = "⇧";
+
+/* Class = "NSSegmentedCell"; hBg-Ac-wp2.ibShadowedLabels[1] = "⌃"; ObjectID = "hBg-Ac-wp2"; */
+"hBg-Ac-wp2.ibShadowedLabels[1]" = "⌃";
+
+/* Class = "NSSegmentedCell"; hBg-Ac-wp2.ibShadowedLabels[2] = "⌥"; ObjectID = "hBg-Ac-wp2"; */
+"hBg-Ac-wp2.ibShadowedLabels[2]" = "⌥";
+
+/* Class = "NSSegmentedCell"; hBg-Ac-wp2.ibShadowedLabels[3] = "⌘"; ObjectID = "hBg-Ac-wp2"; */
+"hBg-Ac-wp2.ibShadowedLabels[3]" = "⌘";
+
+/* Class = "NSTextFieldCell"; title = "Change space"; ObjectID = "iIT-ub-ZiB"; */
+"iIT-ub-ZiB.title" = "Change space";
+
+/* Class = "NSTextFieldCell"; title = "Right"; ObjectID = "kF9-se-0EZ"; */
+"kF9-se-0EZ.title" = "Right";
+
+/* Class = "NSTextFieldCell"; title = "Single desktop exposé"; ObjectID = "o5Z-77-JOq"; */
+"o5Z-77-JOq.title" = "Single desktop exposé";

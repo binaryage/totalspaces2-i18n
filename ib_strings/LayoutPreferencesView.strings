@@ -1,0 +1,48 @@
+
+/* Class = "NSButtonCell"; title = "Add desktops"; ObjectID = "87"; */
+"87.title" = "Add desktops";
+
+/* Class = "NSTextFieldCell"; title = "You have 16 desktops"; ObjectID = "88"; */
+"88.title" = "You have 16 desktops";
+
+/* Class = "NSTextFieldCell"; title = "You need 16 desktops"; ObjectID = "90"; */
+"90.title" = "You need 16 desktops";
+
+/* Class = "NSTextFieldCell"; title = "For this grid"; ObjectID = "212"; */
+"212.title" = "For this grid";
+
+/* Class = "NSTextFieldCell"; title = "Name"; ObjectID = "230"; */
+"230.title" = "Name";
+
+/* Class = "NSButtonCell"; title = "Done"; ObjectID = "238"; */
+"238.title" = "Done";
+
+/* Class = "NSTextFieldCell"; title = "Hotkey for position"; ObjectID = "248"; */
+"248.title" = "Hotkey for position";
+
+/* Class = "NSTextFieldCell"; title = "Rows:"; ObjectID = "CLk-6s-5jY"; */
+"CLk-6s-5jY.title" = "Rows:";
+
+/* Class = "NSButtonCell"; title = "+"; ObjectID = "G9C-ti-n3m"; */
+"G9C-ti-n3m.title" = "+";
+
+/* Class = "NSButtonCell"; title = "Sync grids (keep screens on the same space number)"; ObjectID = "Qon-GY-2Hv"; */
+"Qon-GY-2Hv.title" = "Sync grids (keep screens on the same space number)";
+
+/* Class = "NSButtonCell"; title = "-"; ObjectID = "VaK-5k-xcm"; */
+"VaK-5k-xcm.title" = "-";
+
+/* Class = "NSTextFieldCell"; title = "Columns:"; ObjectID = "axE-xZ-1cb"; */
+"axE-xZ-1cb.title" = "Columns:";
+
+/* Class = "NSTextFieldCell"; title = "Select display"; ObjectID = "fTV-pS-FR3"; */
+"fTV-pS-FR3.title" = "Select display";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "spk-mA-HM9"; */
+"spk-mA-HM9.title" = "OtherViews";
+
+/* Class = "NSButtonCell"; title = "-"; ObjectID = "wIO-18-BIp"; */
+"wIO-18-BIp.title" = "-";
+
+/* Class = "NSButtonCell"; title = "+"; ObjectID = "wPK-lX-PUP"; */
+"wPK-lX-PUP.title" = "+";
