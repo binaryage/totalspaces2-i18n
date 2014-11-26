@@ -110,7 +110,7 @@
 "Layout" = "佈局";
 
 /* 3 finger swipe dialog
-hotkey cannot be assigned dialog */
+   hotkey cannot be assigned dialog */
 "OK" = "好";
 
 /* Hotkey already in use dialog */
@@ -147,7 +147,7 @@ hotkey cannot be assigned dialog */
 "The system rejected the assignment even though we tried to force it" = "系統仍然拒絕該快捷鍵組合，即使我們已經嘗試強制指派了！";
 
 /* unshow menu bar dialog */
-"To see the menu bar item again, you can double-click the application in your Applications folder" = "若希望工具列圖示重新出現，請在應用程式中雙擊，打開 TotalSpcaes";
+"To show the preferences, you can double-click the application in your Applications folder" = "To show the preferences, you can double-click the application in your Applications folder";
 
 /* Toolbar item name for the Transitions preference pane */
 "Transitions" = "過場";
@@ -187,6 +187,9 @@ hotkey cannot be assigned dialog */
 
 /* Hotkeys prefs */
 "Instant exposé" = "顯示 Exposé";
+
+/* Hotkeys prefs */
+"Instant exposé mouse" = "Instant exposé mouse";
 
 /* Hotkeys prefs */
 "Toggle exposé" = "切換 Exposé";
@@ -368,6 +371,15 @@ hotkey cannot be assigned dialog */
 /* Layout prefs */
 "Select display" = "選擇螢幕：";
 
+/* Layout prefs */
+"Sync grids (keep screens on the same space number)" = "Sync grids (keep screens on the same space number)";
+
+/* Layout prefs */
+"Desktop creation" = "Desktop creation";
+
+/* Layout prefs */
+"Could not create all requested desktops. The system limit is 16 (plus specials)" = "Could not create all requested desktops. The system limit is 16 (plus specials)";
+
 /* Hotcorners prefs */
 "Show overview grid" = "顯示佈局";
 
@@ -376,3 +388,6 @@ hotkey cannot be assigned dialog */
 
 /* Hotcorners prefs */
 "Overview grid with exposé" = "與 Exposé 一起瀏覽佈局";
+
+/* Hotcorners prefs, hotkeys prefs */
+"Single desktop exposé" = "Single desktop exposé";

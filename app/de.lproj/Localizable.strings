@@ -44,7 +44,7 @@
 "Thank you for using TotalSpaces2!" = "Vielen Dank für die Nutzung von TotalSpaces2!";
 
 /* Registration dialog */
-"Trial period finished - Please buy TotalSpaces2" = "Testphase abgelaufen, bitte erwerben Sie TotalSpaces2";
+"Trial period finished - Please buy TotalSpaces2" = "Testphase abgelaufen, bitte erwerben Sie TotalSpaces2!";
 
 /* Registration dialog /*
 "Trial version" = "Testversion";
@@ -114,7 +114,7 @@
 "OK" = "OK";
 
 /* Hotkey already in use dialog */
-"Cancel" = "Cancel";
+"Cancel" = "Abbrechen";
 
 /* No comment provided by engineer. */
 "Overview grid" = "Übersichtsraster";
@@ -123,7 +123,7 @@
 "Please note that we recommend turning off Three finger drag in the Point & Click section of Trackpad preferences (in System Preferences), otherwise the actions may activate simultaneously" = "Warnung: Wir empfehlen die 3 Finger Wischbewegung für das Trackpad in den Systemeinstellungen zu deaktivieren, da sonst beide Aktionen gleichzeitig aktiviert werden";
 
 /* hotkeys */
-"Please use a different combination, or check in keyboard preferences that it is not already assigned" = "Bitte benutzen Sie unterschiedliche Tastaturkurzbefehle oder vergewissern Sie sich, dass dieses Kürzel nicht bereits verwendet wird";
+"Please use a different combination, or check in keyboard preferences that it is not already assigned" = "Bitte benutzen Sie einen anderen Tastaturkurzbefehl oder vergewissern Sie sich, dass dieses Kürzel nicht bereits verwendet wird";
 
 /* Preferences window */
 "Preferences" = "Einstellungen";
@@ -144,10 +144,10 @@
 "That key combination is already in use" = "Diese Tasten-Kombination wird bereits verwendet";
 
 /* hotkeys */
-"The system rejected the assignment even though we tried to force it" = "Das System lehnt diese Zuordnung ab, selbst als wir es versucht haben";
+"The system rejected the assignment even though we tried to force it" = "Das System lehnt diese Zuordnung ab";
 
 /* unshow menu bar dialog */
-"To show the preferences, you can double-click the application in your Applications folder" = "Um den Status Eintrag erneut zu sehen, können Sie die Anwendung mit Doppelclick im Anwendungs-Ordner öffnen";
+"To show the preferences, you can double-click the application in your Applications folder" = "Um die Einstellungen erneut zu sehen, können Sie die Anwendung mit Doppelklick im Anwendungs-Ordner öffnen";
 
 /* Toolbar item name for the Transitions preference pane */
 "Transitions" = "Übergänge";
@@ -171,13 +171,13 @@
 "You need %ld desktops##{other}" = "Sie benötigen %ld Schreibtische";
 
 /* Hotkeys prefs */
-"Change space" = "Change space";
+"Change space" = "Schreibtisch wechseln";
 
 /* Hotkeys prefs */
-"Move current window" = "Move current window";
+"Move current window" = "Aktuelles Fenster verschieben";
 
 /* Hotkeys prefs */
-"Arrow keys with" = "Arrow keys with";
+"Arrow keys with" = "Pfeiltatsen mit";
 
 /* Hotkeys prefs */
 "Hotkey" = "Tastenkürzel";
@@ -189,13 +189,13 @@
 "Instant exposé" = "Dauerhaftes Exposé";
 
 /* Hotkeys prefs */
-"Instant exposé mouse" = "Instant exposé mouse";
+"Instant exposé mouse" = "Sofortiges Exposé Maus";
 
 /* Hotkeys prefs */
-"Toggle exposé" = "Toggle exposé";
+"Toggle exposé" = "Wechsel zu Exposé";
 
 /* Hotkeys prefs */
-"Space bar" = "Space bar";
+"Space bar" = "Leertaste";
 
 /* Hotkeys prefs */
 "Use the space bar to toggle exposé when using the overview grid" = "Benutzen Sie die Leertaste um das Exposé im Übersichtsraster zu aktivieren";
@@ -225,7 +225,7 @@
 "Down" = "Nach unten";
 
 /* Hotkeys prefs popover */
-"Arrow keys" = "Arrow keys";
+"Arrow keys" = "Pfeiltasten";
 
 /* Hotkeys prefs popover */
 "Custom" = "Custom";
@@ -243,7 +243,7 @@
 "Automatically check for updates" = "Automatisch nach Aktualisierungen suchen";
 
 /* General prefs */
-"Include pre-releases" = "Include pre-releases";
+"Include pre-releases" = "Vorabversionen einbeziehen";
 
 /* General prefs */
 "Zoom to overview grid animation" = "In das Übersichtsraster reinzoomen-Animation";
@@ -258,7 +258,7 @@
 "Lo res" = "Niedrige Auflösung";
 
 /* General prefs grid backgrounds */
-"None (fastest)" = "Kein (schnell)";
+"None (fastest)" = "Ohne (schnell)";
 
 /* General prefs grid zoom */
 "Desktop zoom" = "Desktop zoom";
@@ -276,7 +276,7 @@
 "Circulate vertically (join top row to bottom row)" = "Vertikale Zirkulation (obere Reihe mit unteren Reihe verbinden)";
 
 /* Circulation prefs */
-"Right end of row joins to left end of:" = "Rechtes Ende mit linkem Ende verbinden:";
+"Right end of row joins to left end of:" = "Rechtes Kante mit linker Kante verbinden:";
 
 /* Circulation prefs */
 "Next row" = "Nächste Reihe";
@@ -294,7 +294,7 @@
 "Use this panel to assign apps to specific desktops" = "Anwendung zu Schreibtisch hier zuordnen";
 
 /* App binding prefs */
-"All spaces" = "All spaces";
+"All spaces" = "Alle Schreibtische";
 
 /* Transitions prefs */
 "Use transitions" = "Übergangseffekte verwenden";
@@ -357,20 +357,28 @@
 "Done" = "Fertig";
 
 /* Layout prefs - naming popup */
-"Hotkey for position" = "Hotkey for position";
+"Hotkey for position" = "Hotkey für Posititon";
 
 /* Layout prefs */
 "For this grid" = "Für dieses Raster";
 
 /* Layout prefs */
-"Rows:" = "Rows:";
+"Rows:" = "Zeilen:";
 
 /* Layout prefs */
-"Columns:" = "Columns:";
+"Columns:" = "Spalten:";
 
 /* Layout prefs */
-"Select display" = "Select display";
+"Select display" = "Bildschirm auswählen";
 
+/* Layout prefs */
+"Sync grids (keep screens on the same space number)" = "Sync grids (keep screens on the same space number)";
+
+/* Layout prefs */
+"Desktop creation" = "Desktop creation";
+
+/* Layout prefs */
+"Could not create all requested desktops. The system limit is 16 (plus specials)" = "Could not create all requested desktops. The system limit is 16 (plus specials)";
 
 /* Hotcorners prefs */
 "Show overview grid" = "Übersichtsraster anzeigen";
@@ -381,4 +389,5 @@
 /* Hotcorners prefs */
 "Overview grid with exposé" = "Übersichtsraster mit Exposé";
 
-
+/* Hotcorners prefs, hotkeys prefs */
+"Single desktop exposé" = "Single desktop exposé";

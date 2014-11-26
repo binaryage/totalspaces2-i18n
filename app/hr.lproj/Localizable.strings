@@ -371,6 +371,14 @@
 /* Layout prefs */
 "Select display" = "Select display";
 
+/* Layout prefs */
+"Sync grids (keep screens on the same space number)" = "Sync grids (keep screens on the same space number)";
+
+/* Layout prefs */
+"Desktop creation" = "Desktop creation";
+
+/* Layout prefs */
+"Could not create all requested desktops. The system limit is 16 (plus specials)" = "Could not create all requested desktops. The system limit is 16 (plus specials)";
 
 /* Hotcorners prefs */
 "Show overview grid" = "Prikaži pregled mreže";
@@ -381,4 +389,5 @@
 /* Hotcorners prefs */
 "Overview grid with exposé" = "Pregled mreže s exposé-om";
 
-
+/* Hotcorners prefs, hotkeys prefs */
+"Single desktop exposé" = "Single desktop exposé";
