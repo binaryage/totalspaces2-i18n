@@ -1,0 +1,384 @@
+/* Registration dialog */
+"Registration" = "Registration";
+
+/* Registration dialog */
+"Please enter your license details from the email we have sent you:" = "Indtast venligst licens informationer fra emailen vi har sendt til dig:";
+
+/* Registration dialog */
+"Register" = "Registrer";
+
+/* Registration dialog */
+"Buy TotalSpaces2 Now" = "Køb TotalSpaces2 Nu";
+
+/* Registration dialog */
+"Invalid license code" = "Forkert licens kode";
+
+/* Registration dialog */
+"Please go back and try again." = "Gå venligst tilbage, og prøv igen.";
+
+/* Registration dialog */
+"To purchase a license for TotalSpaces2, please visit BinaryAge web store." = "For at købe en licens til TotalSpaces2, besøg venligst BinaryAge hjemmeside.";
+
+/* Registration dialog */
+"Back" = "Tilbage";
+
+/* Registration dialog */
+"Thanks for registering!" = "Tak for registeringen!";
+
+/* Registration dialog */
+"This TotalSpaces2 copy is licensed to:" = "Licensen af denne TotalSpaces2 kopi er registreret til:";
+
+/* Registration dialog */
+"Change License" = "Skift Licens";
+
+/* Registration dialog */
+"Close" = "Luk";
+
+/* Registration dialog */
+"TotalSpaces2 Registration" = "TotalSpaces2 Registration";
+
+/* Registration dialog */
+"Licensed to" = "Autoriseret til";
+
+/* Registration dialog */
+"Thank you for using TotalSpaces2!" = "Tak for at du bruger TotalSpaces2!";
+
+/* Registration dialog */
+"Trial period finished - Please buy TotalSpaces2" = "Prøveperiode overstået - Køb venligst TotalSpaces2";
+
+/* Registration dialog /*
+"Trial version" = "Prøveversion";
+
+/* Registration dialog - http://unicode.org/repos/cldr-tmp/trunk/diff/supplemental/language_plural_rules.html */
+"%d days left##{other}" = "%d dage tilbage";
+
+/* Registration dialog */
+"%d days left##{one}" = "%d dag tilbage";
+
+/* Registration dialog */
+"Buy now!" = "Køb nu!";
+
+/* non grid desktop name for menu */
+"%@ (not in grid)" = "%@ (ikke i gitter)";
+
+/* default numbered desktop name */
+"%ld (Desktop)" = "%ld (Skrivebord)";
+
+/* default fullscreen desktop name when fullscreen is in the grid */
+"%ld (Fullscreen)" = "%ld (Fuldskærm)";
+
+/* default fullscreen desktop name when fullscreen is not in the grid */
+"(Fullscreen)" = "(Fuldskærm)";
+
+/* 3 finger swipe dialog */
+"3 finger swiping" = "3 finger swiping";
+
+/* No comment provided by engineer. */
+"About" = "Om";
+
+/* No comment provided by engineer. */
+"About (Unregistered)" = "Om (Unregisteret)";
+
+/* add/remove desktops button */
+"Add desktops" = "Tilføj skrivebord";
+
+/* Toolbar item name for the Advanced preference pane */
+"Advanced" = "Advanceret";
+
+/* Toolbar item name for the App Spaces preference pane */
+"Apps" = "Apps";
+
+/* No comment provided by engineer. */
+"Check for updates" = "Søg efter opdateringer";
+
+/* Toolbar item name for the Circulation preference pane */
+"Circulation" = "Cirkulation";
+
+/* dashboard name shown in menu */
+"Dashboard" = "Dashboard";
+
+/* Toolbar item name for the General preference pane */
+"General" = "Generelt";
+
+/* Toolbar item name for the Hotcorners preference pane */
+"Hotcorners" = "Hotcorners";
+
+/* Toolbar item name for the Hotkeys preference pane */
+"Hotkeys" = "Genvejstaster";
+
+/* Toolbar item name for the Layout preference pane */
+"Layout" = "Layout";
+
+/* 3 finger swipe dialog
+   hotkey cannot be assigned dialog */
+"OK" = "OK";
+
+/* Hotkey already in use dialog */
+"Cancel" = "Annuler";
+
+/* No comment provided by engineer. */
+"Overview grid" = "Gennemse gitter";
+
+/* 3 finger swipe dialog */
+"Please note that we recommend turning off Three finger drag in the Point & Click section of Trackpad preferences (in System Preferences), otherwise the actions may activate simultaneously" = "Please note that we recommend turning off Three finger drag in the Point & Click section of Trackpad preferences (in System Preferences), otherwise the actions may activate simultaneously";
+
+/* hotkeys */
+"Please use a different combination, or check in keyboard preferences that it is not already assigned" = "Brug venligst en anden kombination, eller tjek i keyboard indstillinger, der ikke er allerede brugt";
+
+/* Preferences window */
+"Preferences" = "Indstillinger";
+
+/* No comment provided by engineer. */
+"Quit" = "Luk";
+
+/* add/remove desktops button */
+"Remove desktops" = "Fjern skrivebord";
+
+/* unshow menu bar dialog */
+"Menu bar item removal" = "Fjern menu bar icon";
+
+/* hotkeys */
+"That key combination could not be assigned" = "Denne tastekombination kan ikke bruges";
+
+/* hotkeys */
+"That key combination is already in use" = "Denne tastekombination er allerede i brug";
+
+/* hotkeys */
+"The system rejected the assignment even though we tried to force it" = "Systemet annulerede opgaven";
+
+/* unshow menu bar dialog */
+"To show the preferences, you can double-click the application in your Applications folder" = "For at vise indstillingerne, kan du dobbeltklikke på programmet i din Program mappe";
+
+/* Toolbar item name for the Transitions preference pane */
+"Transitions" = "Overgange";
+
+/* No comment provided by engineer. */
+"Trial period expired" = "Prøveperiode udløbet";
+
+/* hotkey already in use dialog */
+"Use anyway" = "Brug alligevel";
+
+/* layout desktop status label single */
+"You have %ld desktops##{one}" = "Du har %ld skrivebord";
+
+/* layout desktop status label plural */
+"You have %ld desktops##{other}" = "Du har %ld skriveborde";
+
+/* layout desktop requirements label single */
+"You need %ld desktops##{one}" = "Du skal bruge %ld skrivebord";
+
+/* layout desktop requirements label plural */
+"You need %ld desktops##{other}" = "Du skal bruge %ld skriveborde";
+
+/* Hotkeys prefs */
+"Change space" = "Ændre space";
+
+/* Hotkeys prefs */
+"Move current window" = "Flyt nuværende vindue";
+
+/* Hotkeys prefs */
+"Arrow keys with" = "Piletaster med";
+
+/* Hotkeys prefs */
+"Hotkey" = "Hotkey";
+
+/* Hotkeys prefs */
+"Mouse" = "Mus";
+
+/* Hotkeys prefs */
+"Instant exposé" = "Øjeblikkelig exposé";
+
+/* Hotkeys prefs */
+"Instant exposé mouse" = "Øjeblikkelig exposé mus";
+
+/* Hotkeys prefs */
+"Toggle exposé" = "Skift exposé";
+
+/* Hotkeys prefs */
+"Space bar" = "Mellemrumstast";
+
+/* Hotkeys prefs */
+"Use the space bar to toggle exposé when using the overview grid" = "Brug mellemrumstasten for at skifte exposé når du gennemser gitteret";
+
+/* Hotkeys prefs */
+"Choose button" = "Vælg knap";
+
+/* Hotkeys prefs */
+"3rd/middle button" = "3./mellem knap";
+
+/* Hotkeys prefs */
+"4th button" = "4. knap";
+
+/* Hotkeys prefs */
+"5th button" = "5. knap";
+
+/* Hotkeys prefs popover */
+"Left" = "Venstre";
+
+/* Hotkeys prefs popover */
+"Right" = "Højre";
+
+/* Hotkeys prefs popover */
+"Up" = "Op";
+
+/* Hotkeys prefs popover */
+"Down" = "Ned";
+
+/* Hotkeys prefs popover */
+"Arrow keys" = "Piletaster";
+
+/* Hotkeys prefs popover */
+"Custom" = "Custom";
+
+/* General prefs */
+"Start TotalSpaces2 at Login" = "Start TotalSpaces2 ved opstart";
+
+/* General prefs */
+"Show notification graphic on desktop change" = "Vis notifications grafik ved skrivebordsskift";
+
+/* General prefs */
+"Hide menu bar icon" = "Skjul menubar icon";
+
+/* General prefs */
+"Automatically check for updates" = "Automatisk søg efter opdateringer";
+
+/* General prefs */
+"Include pre-releases" = "Inkluder pre-releases";
+
+/* General prefs */
+"Zoom to overview grid animation" = "Zoom for at gennemse gitter animation";
+
+/* General prefs */
+"Desktop backgrounds in the overview grid" = "Baggrunde i gitter oversigt";
+
+/* General prefs grid backgrounds */
+"Hi res" = "Højt opløsning";
+
+/* General prefs grid backgrounds */
+"Lo res" = "Lav opløsning";
+
+/* General prefs grid backgrounds */
+"None (fastest)" = "Ingen (hurtigst)";
+
+/* General prefs grid zoom */
+"Desktop zoom" = "Zoom Skrivebord";
+
+/* General prefs grid zoom */
+"Whole grid zoom" = "Zoom hele gitteret";
+
+/* General prefs grid zoom */
+"None" = "Ingen";
+
+/* Circulation prefs */
+"Enable circulation" = "Tænd cirkulation";
+
+/* Circulation prefs */
+"Circulate vertically (join top row to bottom row)" = "Cirkuler vertikalt (Sammensæt øverste række med nederste række)";
+
+/* Circulation prefs */
+"Right end of row joins to left end of:" = "Højre ende af række sammensættes med venstre ende af:";
+
+/* Circulation prefs */
+"Next row" = "Næste række";
+
+/* Circulation prefs */
+"Same row" = "Samme række";
+
+/* App binding prefs */
+"Application" = "Application";
+
+/* App binding prefs */
+"Desktop" = "Skrivebord";
+
+/* App binding prefs */
+"Use this panel to assign apps to specific desktops" = "Brug dette panel, til at fastgøre bestemte programmer til bestemte skriveborde";
+
+/* App binding prefs */
+"All spaces" = "Alle spaces";
+
+/* Transitions prefs */
+"Use transitions" = "Brug overgange";
+
+/* Transitions prefs */
+"Animation" = "Animationer";
+
+/* Transitions prefs */
+"Slide" = "Glid";
+
+/* Transitions prefs */
+"Cube" = "Kube";
+
+/* Transitions prefs */
+"Flip" = "Vend";
+
+/* Transitions prefs */
+"Reveal" = "Afslør";
+
+/* Transitions prefs */
+"Fade" = "Fade";
+
+/* Transitions prefs */
+"Inside cube" = "Invendig Kube";
+
+/* Transitions prefs */
+"Speed" = "Fart";
+
+/* Transitions prefs */
+"Slow" = "Langsomt";
+
+/* Transitions prefs */
+"Fast" = "Hurtigt";
+
+/* Transitions prefs */
+"Swipe to change space" = "Swipe for at skifte space";
+
+/* Transitions prefs */
+"3 fingers" = "3 fingre";
+
+/* Transitions prefs */
+"4 fingers" = "4 fingre";
+
+/* Transitions prefs */
+"5 fingers" = "5 fingre";
+
+/* Transitions prefs */
+"Invert swipe direction" = "Omvendt swipe retning";
+
+/* Transitions prefs */
+"Change space by moving mouse to the edge of the screen" = "Skift skrivebord ved at flytte musen til kanten af skærmen";
+
+/* Transitions prefs */
+"With key" = "Med tast";
+
+/* Layout prefs - naming popup */
+"Name" = "Navn";
+
+/* Layout prefs - naming popup */
+"Done" = "Udført";
+
+/* Layout prefs - naming popup */
+"Hotkey for position" = "Tast for position";
+
+/* Layout prefs */
+"For this grid" = "For dette gitter";
+
+/* Layout prefs */
+"Rows:" = "Rækker:";
+
+/* Layout prefs */
+"Columns:" = "Kolonner:";
+
+/* Layout prefs */
+"Select display" = "Vælg Skærm";
+
+
+/* Hotcorners prefs */
+"Show overview grid" = "Vis gitter oversigt";
+
+/* Hotcorners prefs */
+"Exposé (when in grid)" = "Skift exposé (i gitter)";
+
+/* Hotcorners prefs */
+"Overview grid with exposé" = "Gitter oversigt med exposé";
+
+
