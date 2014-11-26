@@ -6,6 +6,7 @@ require 'pp'
 
 ROOT_DIR = File.expand_path('.')
 ENGLISH_LPROJ = File.join(ROOT_DIR, 'app', 'en.lproj')
+TOTALSPACES2_DEV = File.join(ROOT_DIR, "..", "TotalSpaces2", "TotalSpaces2")
 
 ################################################################################################
 # dependencies
@@ -222,6 +223,85 @@ def validate_strings_files
   puts "checked "+"#{counter} files".magenta+" and "+(failed>0 ? ("#{failed} failed".red) : ("all is ok".yellow)) + (warnings>0?(" [#{warnings} warnings]".green):(""))
 end
 
+def import_ib_strings
+  %x{mkdir -p "#{File.join(ROOT_DIR, "built")}"}
+  
+  Dir.glob(File.join(ROOT_DIR, 'app', "*.lproj")) do |dir|
+    dirname = File.basename(dir)
+    destdir = File.join(ROOT_DIR, "built", dirname)
+    %x{mkdir -p "#{destdir}"}
+
+    FileUtils.cp(File.join(dir, "LicensingInfo.html"), destdir)
+    FileUtils.cp(File.join(dir, "Localizable.strings"), destdir)
+  end
+  
+  ibstrings_outdir = File.join(ROOT_DIR, "ib_strings");
+  Dir.glob(File.join(ROOT_DIR, "../TotalSpaces2/TotalSpaces2/Base.lproj/*.xib")) do |ibfile|
+    name = File.basename(ibfile)[/^[^\.]*/]
+    outfile_utf16 = File.join(ibstrings_outdir, "#{name}.strings.utf16")
+    outfile_utf8 = File.join(ibstrings_outdir, "#{name}.strings")
+    %x{ibtool --export-strings-file #{outfile_utf16} #{ibfile}}
+    contents_16 = File.read(outfile_utf16, open_args: ['rb:utf-16'])
+    contents_8 = contents_16.encode("UTF-8", :invalid => :replace, :undef => :replace, :replace => "?")
+    File.write(outfile_utf8, contents_8)
+    File.unlink(outfile_utf16)
+  end
+
+  Dir.glob(File.join(ROOT_DIR, "ib_strings", "*.strings")) do |ib_strings_file|
+  
+    ibstrings = parse_strings_file(ib_strings_file)
+  
+    ibitems = {}
+    expect = false
+    oid = text = title = comment = ""
+    ibstrings.each do |line|
+      if expect
+        ibitems["#{oid}.#{title}"] = [line.strip, text, comment.strip, false]
+        expect = false 
+      elsif line =~ /^\/\* Class = "\w+"; (.*) = "(.*)"; ObjectID = "([-\w]+)"; \*\//
+        title,text,oid = $1,$2,$3
+        comment = line
+        expect = true
+      end
+    end
+  
+    Dir.glob(File.join(ROOT_DIR, 'app', "*.lproj")) do |dir|
+      dirname = File.basename(dir)
+      destdir = File.join(ROOT_DIR, "built", dirname)
+
+      lang_strings = parse_strings_file(File.join(destdir, "Localizable.strings"))
+    
+      f = File.open(File.join(destdir, File.basename(ib_strings_file)), "w")
+    
+      comment = ""
+      lang_strings.each do |line|
+        next if line.strip[0...1] != '"'
+      
+        line =~ /^\s*"(.*)"\s*=\s*(".*")\s*;.*$/
+        original_text = $1
+        translated_text = $2 # includes quotes
+      
+        ibitems.each do |key, info|
+          if !info[3] && info[1] == original_text
+            f.puts info[2]
+            f.puts "\"#{key}\" = #{translated_text};"
+            f.puts ""
+            info[3] = true
+          end
+        end
+      end
+    
+      f.close
+    
+      %x{cp -R "#{destdir}" "#{TOTALSPACES2_DEV}"}
+    
+      ibitems.each do |key, info|
+        info[3] = false
+      end
+    end
+  end
+end
+
 ################################################################################################
 # tasks
 
@@ -264,3 +344,7 @@ task :validate do
   validate_strings_files
 end
 
+desc "import strings from ib"
+task :ibimport do
+  import_ib_strings
+end
