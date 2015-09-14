@@ -35,17 +35,17 @@
 /* Class = "NSMenuItem"; title = "-"; ObjectID = "61"; */
 "61.title" = "-";
 
-/* Class = "NSMenuItem"; title = "Exposé (when in grid)"; ObjectID = "359"; */
-"359.title" = "Exposé (when in grid)";
+/* Class = "NSMenuItem"; title = "Toggle exposé"; ObjectID = "359"; */
+"359.title" = "Toggle exposé";
 
-/* Class = "NSMenuItem"; title = "Exposé (when in grid)"; ObjectID = "360"; */
-"360.title" = "Exposé (when in grid)";
+/* Class = "NSMenuItem"; title = "Toggle exposé"; ObjectID = "360"; */
+"360.title" = "Toggle exposé";
 
-/* Class = "NSMenuItem"; title = "Exposé (when in grid)"; ObjectID = "361"; */
-"361.title" = "Exposé (when in grid)";
+/* Class = "NSMenuItem"; title = "Toggle exposé"; ObjectID = "361"; */
+"361.title" = "Toggle exposé";
 
-/* Class = "NSMenuItem"; title = "Exposé (when in grid)"; ObjectID = "362"; */
-"362.title" = "Exposé (when in grid)";
+/* Class = "NSMenuItem"; title = "Toggle exposé"; ObjectID = "362"; */
+"362.title" = "Toggle exposé";
 
 /* Class = "NSMenuItem"; title = "Overview grid with exposé"; ObjectID = "577"; */
 "577.title" = "Overview grid with exposé";
@@ -58,15 +58,3 @@
 
 /* Class = "NSMenuItem"; title = "Overview grid with exposé"; ObjectID = "589"; */
 "589.title" = "Overview grid with exposé";
-
-/* Class = "NSMenuItem"; title = "Single desktop exposé"; ObjectID = "VOo-94-kOj"; */
-"VOo-94-kOj.title" = "Single desktop exposé";
-
-/* Class = "NSMenuItem"; title = "Single desktop exposé"; ObjectID = "YCf-dp-kGi"; */
-"YCf-dp-kGi.title" = "Single desktop exposé";
-
-/* Class = "NSMenuItem"; title = "Single desktop exposé"; ObjectID = "Z3z-Mr-RAP"; */
-"Z3z-Mr-RAP.title" = "Single desktop exposé";
-
-/* Class = "NSMenuItem"; title = "Single desktop exposé"; ObjectID = "q03-sJ-BDf"; */
-"q03-sJ-BDf.title" = "Single desktop exposé";

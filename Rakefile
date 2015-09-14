@@ -234,7 +234,7 @@ def import_ib_strings
     FileUtils.cp(File.join(dir, "LicensingInfo.html"), destdir)
     FileUtils.cp(File.join(dir, "Localizable.strings"), destdir)
   end
-  
+
   ibstrings_outdir = File.join(ROOT_DIR, "ib_strings");
   Dir.glob(File.join(ROOT_DIR, "../TotalSpaces2/TotalSpaces2/Base.lproj/*.xib")) do |ibfile|
     name = File.basename(ibfile)[/^[^\.]*/]

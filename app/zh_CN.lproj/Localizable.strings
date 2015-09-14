@@ -384,10 +384,20 @@
 "Show overview grid" = "顯示佈局";
 
 /* Hotcorners prefs */
-"Exposé (when in grid)" = "瀏覽佈局時自動 Exposé";
+"Toggle exposé" = "切換 Exposé";
 
 /* Hotcorners prefs */
 "Overview grid with exposé" = "與 Exposé 一起瀏覽佈局";
 
-/* Hotcorners prefs, hotkeys prefs */
+/* Hotkeys prefs */
 "Single desktop exposé" = "Single desktop exposé";
+
+/* SIP dialog */
+"TotalSpaces2 cannot run on OSX 10.11 El Capitan with System Integrity Protection turned on. See our website for more information." = "TotalSpaces2 cannot run on OSX 10.11 El Capitan with System Integrity Protection turned on. See our website for more information.";
+
+/* SIP dialog */
+"System Integrity Protection" = "System Integrity Protection";
+
+/* SIP dialog */
+"Visit website" = "Visit website";
+

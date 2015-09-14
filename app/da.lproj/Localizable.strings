@@ -384,10 +384,20 @@
 "Show overview grid" = "Vis gitter oversigt";
 
 /* Hotcorners prefs */
-"Exposé (when in grid)" = "Skift exposé (i gitter)";
+"Toggle exposé" = "Skift exposé";
 
 /* Hotcorners prefs */
 "Overview grid with exposé" = "Gitter oversigt med exposé";
 
-/* Hotcorners prefs, hotkeys prefs */
+/* Hotkeys prefs */
 "Single desktop exposé" = "Single desktop exposé";
+
+/* SIP dialog */
+"TotalSpaces2 cannot run on OSX 10.11 El Capitan with System Integrity Protection turned on. See our website for more information." = "TotalSpaces2 cannot run on OSX 10.11 El Capitan with System Integrity Protection turned on. See our website for more information.";
+
+/* SIP dialog */
+"System Integrity Protection" = "System Integrity Protection";
+
+/* SIP dialog */
+"Visit website" = "Visit website";
+
