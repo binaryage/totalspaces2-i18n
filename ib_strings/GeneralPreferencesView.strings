@@ -43,3 +43,6 @@
 
 /* Class = "NSButtonCell"; title = "Include pre-releases"; ObjectID = "kun-TH-xoI"; */
 "kun-TH-xoI.title" = "Include pre-releases";
+
+/* Class = "NSButtonCell"; title = "Disable animation"; ObjectID = "qdP-yR-Omh"; */
+"qdP-yR-Omh.title" = "Disable animation";

@@ -113,5 +113,8 @@
 /* Class = "NSTextFieldCell"; title = "Right"; ObjectID = "kF9-se-0EZ"; */
 "kF9-se-0EZ.title" = "Right";
 
+/* Class = "NSTextFieldCell"; title = "Note: Hotkeys for each Space can be set in Layout"; ObjectID = "kK0-eT-fmi"; */
+"kK0-eT-fmi.title" = "Note: Hotkeys for each Space can be set in Layout";
+
 /* Class = "NSTextFieldCell"; title = "Single desktop exposé"; ObjectID = "o5Z-77-JOq"; */
 "o5Z-77-JOq.title" = "Single desktop exposé";

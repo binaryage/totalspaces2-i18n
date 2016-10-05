@@ -71,8 +71,8 @@
 /* Class = "NSButtonCell"; title = "Back"; ObjectID = "210"; */
 "210.title" = "Back";
 
-/* Class = "IBBindingConnection"; ibShadowedIsNilPlaceholder = "License Key"; ObjectID = "VRB-g1-kFP"; */
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "License Key"; ObjectID = "VRB-g1-kFP"; */
 "VRB-g1-kFP.ibShadowedIsNilPlaceholder" = "License Key";
 
-/* Class = "IBBindingConnection"; ibShadowedIsNilPlaceholder = "License Name"; ObjectID = "giT-33-Iub"; */
+/* Class = "CocoaBindingsConnection"; ibShadowedIsNilPlaceholder = "License Name"; ObjectID = "giT-33-Iub"; */
 "giT-33-Iub.ibShadowedIsNilPlaceholder" = "License Name";
