@@ -1,0 +1,81 @@
+/* Class = "NSTextFieldCell"; title = "Overview grid"; ObjectID = "176"; */
+"176.title" = "显示网格布局";
+
+/* Class = "NSTextFieldCell"; title = "Change space"; ObjectID = "iIT-ub-ZiB"; */
+"iIT-ub-ZiB.title" = "切换到别的桌面";
+
+/* Class = "NSTextFieldCell"; title = "Move current window"; ObjectID = "Vhz-fc-Du5"; */
+"Vhz-fc-Du5.title" = "移动窗口至别的桌面";
+
+/* Class = "NSTextFieldCell"; title = "Hotkey"; ObjectID = "239"; */
+"239.title" = "热键";
+
+/* Class = "NSTextFieldCell"; title = "Mouse"; ObjectID = "235"; */
+"235.title" = "鼠标";
+
+/* Class = "NSTextFieldCell"; title = "Instant exposé"; ObjectID = "243"; */
+"243.title" = "显示 Exposé";
+
+/* Class = "NSTextFieldCell"; title = "Instant exposé mouse"; ObjectID = "fS9-a9-Jxa"; */
+"fS9-a9-Jxa.title" = "Instant exposé mouse";
+
+/* Class = "NSTextFieldCell"; title = "Toggle exposé"; ObjectID = "209"; */
+"209.title" = "切换 Exposé";
+
+/* Class = "NSTextFieldCell"; title = "Space bar"; ObjectID = "I1F-F4-o3a"; */
+"I1F-F4-o3a.title" = "空白键";
+
+/* Class = "NSMenuItem"; title = "Choose button"; ObjectID = "227"; */
+"227.title" = "选择按键";
+
+/* Class = "NSMenuItem"; title = "Choose button"; ObjectID = "Ryf-M2-ctP"; */
+"Ryf-M2-ctP.title" = "选择按键";
+
+/* Class = "NSMenuItem"; title = "3rd/middle button"; ObjectID = "228"; */
+"228.title" = "第 3 个按键/中键";
+
+/* Class = "NSMenuItem"; title = "3rd/middle button"; ObjectID = "CI7-9v-7tD"; */
+"CI7-9v-7tD.title" = "第 3 个按键/中键";
+
+/* Class = "NSMenuItem"; title = "4th button"; ObjectID = "229"; */
+"229.title" = "第 4 个按键";
+
+/* Class = "NSMenuItem"; title = "4th button"; ObjectID = "KBq-H8-NIi"; */
+"KBq-H8-NIi.title" = "第 4 个按键";
+
+/* Class = "NSMenuItem"; title = "5th button"; ObjectID = "230"; */
+"230.title" = "第 5 个按键";
+
+/* Class = "NSMenuItem"; title = "5th button"; ObjectID = "gLs-Ph-v3Q"; */
+"gLs-Ph-v3Q.title" = "第 5 个按键";
+
+/* Class = "NSTextFieldCell"; title = "Left"; ObjectID = "1ET-iw-hUl"; */
+"1ET-iw-hUl.title" = "左";
+
+/* Class = "NSTextFieldCell"; title = "Right"; ObjectID = "kF9-se-0EZ"; */
+"kF9-se-0EZ.title" = "右";
+
+/* Class = "NSTextFieldCell"; title = "Up"; ObjectID = "UYb-H9-9Vt"; */
+"UYb-H9-9Vt.title" = "上";
+
+/* Class = "NSTextFieldCell"; title = "Down"; ObjectID = "SzA-3H-JQ1"; */
+"SzA-3H-JQ1.title" = "下";
+
+/* Class = "NSButtonCell"; title = "Arrow keys"; ObjectID = "HAw-ym-j4K"; */
+"HAw-ym-j4K.title" = "方向键";
+
+/* Class = "NSButtonCell"; title = "Arrow keys"; ObjectID = "Lvf-fh-0bX"; */
+"Lvf-fh-0bX.title" = "方向键";
+
+/* Class = "NSSegmentedCell"; SZT-ea-VNR.ibShadowedLabels[0] = "Arrow keys"; ObjectID = "SZT-ea-VNR"; */
+"SZT-ea-VNR.SZT-ea-VNR.ibShadowedLabels[0]" = "方向键";
+
+/* Class = "NSSegmentedCell"; SZT-ea-VNR.ibShadowedLabels[1] = "Custom"; ObjectID = "SZT-ea-VNR"; */
+"SZT-ea-VNR.SZT-ea-VNR.ibShadowedLabels[1]" = "自定义";
+
+/* Class = "NSButtonCell"; title = "Done"; ObjectID = "RJi-Q8-NHn"; */
+"RJi-Q8-NHn.title" = "完成";
+
+/* Class = "NSTextFieldCell"; title = "Single desktop exposé"; ObjectID = "o5Z-77-JOq"; */
+"o5Z-77-JOq.title" = "单桌面 exposé";
+

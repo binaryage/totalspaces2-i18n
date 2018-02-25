@@ -1,0 +1,9 @@
+/* Class = "NSTableColumn"; headerCell.title = "Application"; ObjectID = "8"; */
+"8.headerCell.title" = "应用程序";
+
+/* Class = "NSTableColumn"; headerCell.title = "Desktop"; ObjectID = "9"; */
+"9.headerCell.title" = "桌面";
+
+/* Class = "NSTextFieldCell"; title = "Use this panel to assign apps to specific desktops"; ObjectID = "201"; */
+"201.title" = "使用此控制面板，将应用程序设定至固定桌面";
+

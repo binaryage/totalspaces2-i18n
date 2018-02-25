@@ -1,0 +1,54 @@
+/* Class = "NSButtonCell"; title = "Use transitions"; ObjectID = "9"; */
+"9.title" = "使用过度动画";
+
+/* Class = "NSTextFieldCell"; title = "Animation"; ObjectID = "88"; */
+"88.title" = "过度效果";
+
+/* Class = "NSMenuItem"; title = "Slide"; ObjectID = "21"; */
+"21.title" = "平移";
+
+/* Class = "NSMenuItem"; title = "Cube"; ObjectID = "kbj-zv-cwJ"; */
+"kbj-zv-cwJ.title" = "立方体";
+
+/* Class = "NSMenuItem"; title = "Flip"; ObjectID = "SgJ-15-fNF"; */
+"SgJ-15-fNF.title" = "翻转";
+
+/* Class = "NSMenuItem"; title = "Reveal"; ObjectID = "F0U-cQ-tb9"; */
+"F0U-cQ-tb9.title" = "侧推";
+
+/* Class = "NSMenuItem"; title = "Fade"; ObjectID = "snD-1t-8Za"; */
+"snD-1t-8Za.title" = "渐变";
+
+/* Class = "NSMenuItem"; title = "Inside cube"; ObjectID = "10s-QF-zDf"; */
+"10s-QF-zDf.title" = "内立方体";
+
+/* Class = "NSTextFieldCell"; title = "Speed"; ObjectID = "15"; */
+"15.title" = "速度";
+
+/* Class = "NSTextFieldCell"; title = "Slow"; ObjectID = "11"; */
+"11.title" = "慢";
+
+/* Class = "NSTextFieldCell"; title = "Fast"; ObjectID = "14"; */
+"14.title" = "快";
+
+/* Class = "NSButtonCell"; title = "Swipe to change space"; ObjectID = "951"; */
+"951.title" = "滑动触摸板切换桌面";
+
+/* Class = "NSMenuItem"; title = "3 fingers"; ObjectID = "948"; */
+"948.title" = "3 根手指";
+
+/* Class = "NSMenuItem"; title = "4 fingers"; ObjectID = "949"; */
+"949.title" = "4 根手指";
+
+/* Class = "NSMenuItem"; title = "5 fingers"; ObjectID = "950"; */
+"950.title" = "5 根手指";
+
+/* Class = "NSButtonCell"; title = "Invert swipe direction"; ObjectID = "945"; */
+"945.title" = "反转滑动方向";
+
+/* Class = "NSButtonCell"; title = "Change space by moving mouse to the edge of the screen"; ObjectID = "865"; */
+"865.title" = "使用屏幕热点切换桌面";
+
+/* Class = "NSTextFieldCell"; title = "With key"; ObjectID = "878"; */
+"878.title" = "与该按键同时使用";
+

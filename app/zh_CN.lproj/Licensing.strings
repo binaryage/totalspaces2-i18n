@@ -1,0 +1,63 @@
+/* Class = "NSButtonCell"; title = "Registration"; ObjectID = "19"; */
+"19.title" = "输入序号";
+
+/* Class = "NSTextFieldCell"; title = "Registration"; ObjectID = "172"; */
+"172.title" = "输入序号";
+
+/* Class = "NSTextFieldCell"; title = "Please enter your license details from the email we have sent you:"; ObjectID = "173"; */
+"173.title" = "请依据我们发给您的邮件，输入注册信息:";
+
+/* Class = "NSButtonCell"; title = "Register"; ObjectID = "178"; */
+"178.title" = "注册";
+
+/* Class = "NSButtonCell"; title = "Buy TotalSpaces2 Now"; ObjectID = "73"; */
+"73.title" = "立即购买";
+
+/* Class = "NSButtonCell"; title = "Buy TotalSpaces2 Now"; ObjectID = "159"; */
+"159.title" = "立即购买";
+
+/* Class = "NSButtonCell"; title = "Buy TotalSpaces2 Now"; ObjectID = "179"; */
+"179.title" = "立即购买";
+
+/* Class = "NSTextFieldCell"; title = "Invalid license code"; ObjectID = "61"; */
+"61.title" = "无效的授权";
+
+/* Class = "NSTextFieldCell"; title = "Please go back and try again."; ObjectID = "63"; */
+"63.title" = "请返回并重试。";
+
+/* Class = "NSTextFieldCell"; title = "To purchase a license for TotalSpaces2, please visit BinaryAge web store."; ObjectID = "75"; */
+"75.title" = "请访问 BinaryAge 线上商店购买 TotalSpaces2 的授权。";
+
+/* Class = "NSButtonCell"; title = "Back"; ObjectID = "62"; */
+"62.title" = "返回";
+
+/* Class = "NSButtonCell"; title = "Back"; ObjectID = "206"; */
+"206.title" = "返回";
+
+/* Class = "NSButtonCell"; title = "Back"; ObjectID = "210"; */
+"210.title" = "返回";
+
+/* Class = "NSTextFieldCell"; title = "Thanks for registering!"; ObjectID = "33"; */
+"33.title" = "感谢您的注册与支持！";
+
+/* Class = "NSTextFieldCell"; title = "This TotalSpaces2 copy is licensed to:"; ObjectID = "34"; */
+"34.title" = "此 TotalSpaces2 授权给：";
+
+/* Class = "NSButtonCell"; title = "Change License"; ObjectID = "36"; */
+"36.title" = "更改注册信息";
+
+/* Class = "NSButtonCell"; title = "Close"; ObjectID = "32"; */
+"32.title" = "关闭";
+
+/* Class = "NSWindow"; title = "TotalSpaces2 Registration"; ObjectID = "1"; */
+"1.title" = "注册 TotalSpaces2";
+
+/* Class = "NSTextFieldCell"; title = "Licensed to"; ObjectID = "17"; */
+"17.title" = "授权给";
+
+/* Class = "NSTextFieldCell"; title = "Thank you for using TotalSpaces2!"; ObjectID = "188"; */
+"188.title" = "感谢您使用 TotalSpaces2!";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Name"; ObjectID = "37"; */
+"37.placeholderString" = "桌面名称";
+

@@ -1,0 +1,48 @@
+
+/* Class = "NSButtonCell"; title = "Start TotalSpaces2 at Login"; ObjectID = "164"; */
+"164.title" = "登录时启动 Totalspaces2";
+
+/* Class = "NSButtonCell"; title = "Show notification graphic on desktop change"; ObjectID = "166"; */
+"166.title" = "切换桌面时显示图形指示";
+
+/* Class = "NSButtonCell"; title = "Hide menu bar icon"; ObjectID = "168"; */
+"168.title" = "隐藏工具栏图标";
+
+/* Class = "NSTextFieldCell"; title = "Desktop backgrounds in the overview grid"; ObjectID = "239"; */
+"239.title" = "网格布局的桌面背景";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "jOc-yI-cto"; */
+"jOc-yI-cto.title" = "其它视图";
+
+/* Class = "NSMenuItem"; title = "Hi res"; ObjectID = "243"; */
+"243.title" = "高解析度";
+
+/* Class = "NSMenuItem"; title = "Lo res"; ObjectID = "244"; */
+"244.title" = "低解析度";
+
+/* Class = "NSMenuItem"; title = "None (fastest)"; ObjectID = "245"; */
+"245.title" = "无 (最快)";
+
+/* Class = "NSButtonCell"; title = "Automatically check for updates"; ObjectID = "271"; */
+"271.title" = "自动检查更新";
+
+/* Class = "NSMenuItem"; title = "Whole grid zoom"; ObjectID = "ElM-23-4dY"; */
+"ElM-23-4dY.title" = "缩放网格整体";
+
+/* Class = "NSTextFieldCell"; title = "Zoom to overview grid animation"; ObjectID = "JKQ-KD-Y33"; */
+"JKQ-KD-Y33.title" = "切换到网格布局时的缩放效果";
+
+/* Class = "NSMenuItem"; title = "Desktop zoom"; ObjectID = "YK0-ey-Hmy"; */
+"YK0-ey-Hmy.title" = "缩放当前桌面";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "dgq-V5-7Fx"; */
+"dgq-V5-7Fx.title" = "无";
+
+
+
+
+/* Class = "NSButtonCell"; title = "Include pre-releases"; ObjectID = "kun-TH-xoI"; */
+"kun-TH-xoI.title" = "包含测试版本";
+
+/* Class = "NSButtonCell"; title = "Disable animation"; ObjectID = "qdP-yR-Omh"; */
+"qdP-yR-Omh.title" = "禁用动画";

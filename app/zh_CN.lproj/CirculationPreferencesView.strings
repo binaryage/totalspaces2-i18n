@@ -1,0 +1,15 @@
+
+/* Class = "NSTextFieldCell"; title = "Right end of row joins to left end of:"; ObjectID = "7"; */
+"7.title" = "在最右边的桌面按右键切换至：";
+
+/* Class = "NSMenuItem"; title = "Next row"; ObjectID = "11"; */
+"11.title" = "下一行";
+
+/* Class = "NSMenuItem"; title = "Same row"; ObjectID = "12"; */
+"12.title" = "同一行";
+
+/* Class = "NSButtonCell"; title = "Enable circulation"; ObjectID = "13"; */
+"13.title" = "开启桌面水平循环切换";
+
+/* Class = "NSButtonCell"; title = "Circulate vertically (join top row to bottom row)"; ObjectID = "14"; */
+"14.title" = "开启桌面垂直循环切换";

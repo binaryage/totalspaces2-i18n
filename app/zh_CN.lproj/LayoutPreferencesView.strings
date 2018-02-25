@@ -1,0 +1,30 @@
+/* Class = "NSButtonCell"; title = "Add desktops"; ObjectID = "87"; */
+"87.title" = "添加桌面";
+
+/* Class = "NSTextFieldCell"; title = "For this grid"; ObjectID = "212"; */
+"212.title" = "为这个网格布局";
+
+/* Class = "NSTextFieldCell"; title = "Name"; ObjectID = "230"; */
+"230.title" = "桌面名称";
+
+/* Class = "NSButtonCell"; title = "Done"; ObjectID = "238"; */
+"238.title" = "完成";
+
+/* Class = "NSTextFieldCell"; title = "Hotkey for position"; ObjectID = "248"; */
+"248.title" = "设定热键";
+
+/* Class = "NSTextFieldCell"; title = "Rows:"; ObjectID = "CLk-6s-5jY"; */
+"CLk-6s-5jY.title" = "行：";
+
+/* Class = "NSButtonCell"; title = "Sync grids (keep screens on the same space number)"; ObjectID = "Qon-GY-2Hv"; */
+"Qon-GY-2Hv.title" = "同步网格布局 (保持屏幕在同一空间的数量)";
+
+/* Class = "NSTextFieldCell"; title = "Columns:"; ObjectID = "axE-xZ-1cb"; */
+"axE-xZ-1cb.title" = "列：";
+
+/* Class = "NSTextFieldCell"; title = "Click a Space to set name & hotkey"; ObjectID = "c2Y-Q2-iah"; */
+"c2Y-Q2-iah.title" = "点击格子可以设置名称和热键";
+
+/* Class = "NSTextFieldCell"; title = "Select display"; ObjectID = "fTV-pS-FR3"; */
+"fTV-pS-FR3.title" = "选择屏幕：";
+

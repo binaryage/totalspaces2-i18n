@@ -1,113 +1,113 @@
 /* Registration dialog */
-"Registration" = "輸入序號";
+"Registration" = "输入注册码";
 
 /* Registration dialog */
-"Please enter your license details from the email we have sent you:" = "請依據我們發給您的郵件，輸入授權資訊:";
+"Please enter your license details from the email we have sent you:" = "请依据我们发给您的邮件，输入注册信息:";
 
 /* Registration dialog */
-"Register" = "註冊";
+"Register" = "注册";
 
 /* Registration dialog */
-"Buy TotalSpaces2 Now" = "立即購買";
+"Buy TotalSpaces2 Now" = "立即购买";
 
 /* Registration dialog */
-"Invalid license code" = "無效的授權";
+"Invalid license code" = "无效的注册码";
 
 /* Registration dialog */
-"Please go back and try again." = "請返回並重試。";
+"Please go back and try again." = "请返回并重试。";
 
 /* Registration dialog */
-"To purchase a license for TotalSpaces2, please visit BinaryAge web store." = "請至 BinaryAge 線上商店購買 TotalSpaces2 的授權。";
+"To purchase a license for TotalSpaces2, please visit BinaryAge web store." = "请访问 BinaryAge 线上商店购买 TotalSpaces2 的授权。";
 
 /* Registration dialog */
 "Back" = "返回";
 
 /* Registration dialog */
-"Thanks for registering!" = "感謝您的註冊與支持！";
+"Thanks for registering!" = "感谢您的注册与支持！";
 
 /* Registration dialog */
-"This TotalSpaces2 copy is licensed to:" = "此 TotalSpaces2 授權給：";
+"This TotalSpaces2 copy is licensed to:" = "此 TotalSpaces2 授权给：";
 
 /* Registration dialog */
-"Change License" = "變更授權";
+"Change License" = "更改注册信息";
 
 /* Registration dialog */
-"Close" = "關閉";
+"Close" = "关闭";
 
 /* Registration dialog */
-"TotalSpaces2 Registration" = "註冊 TotalSpaces2";
+"TotalSpaces2 Registration" = "注册 TotalSpaces2";
 
 /* Registration dialog */
-"Licensed to" = "授權給";
+"Licensed to" = "授权给";
 
 /* Registration dialog */
-"Thank you for using TotalSpaces2!" = "感謝您使用 TotalSpaces2!";
+"Thank you for using TotalSpaces2!" = "感谢您使用 TotalSpaces2!";
 
 /* Registration dialog */
-"Trial period finished - Please buy TotalSpaces2" = "試用期結束 - 請購買 TotalSpaces2";
+"Trial period finished - Please buy TotalSpaces2" = "试用期结束 - 请购买 TotalSpaces2";
 
 /* Registration dialog /*
-"Trial version" = "試用版";
+"Trial version" = "试用版";
 
 /* Registration dialog - http://unicode.org/repos/cldr-tmp/trunk/diff/supplemental/language_plural_rules.html */
-"%d days left##{other}" = "還剩 %d 天";
+"%d days left##{other}" = "还剩 %d 天";
 
 /* Registration dialog */
-"%d days left##{one}" = "還剩 %d 天";
+"%d days left##{one}" = "还剩 %d 天";
 
 /* Registration dialog */
-"Buy now!" = "立刻購買！";
+"Buy now!" = "立刻购买！";
 
 /* non grid desktop name for menu */
-"%@ (not in grid)" = "%@ (不在佈局中)";
+"%@ (not in grid)" = "%@ (不在布局中)";
 
 /* default numbered desktop name */
 "%ld (Desktop)" = "%ld (桌面)";
 
 /* default fullscreen desktop name when fullscreen is in the grid */
-"%ld (Fullscreen)" = "%ld (全螢幕)";
+"%ld (Fullscreen)" = "%ld (全屏)";
 
 /* default fullscreen desktop name when fullscreen is not in the grid */
-"(Fullscreen)" = "(全螢幕)";
+"(Fullscreen)" = "(全屏)";
 
 /* 3 finger swipe dialog */
-"3 finger swiping" = "滑動 3 根手指";
+"3 finger swiping" = "滑动 3 根手指";
 
 /* No comment provided by engineer. */
-"About" = "關於";
+"About" = "关于";
 
 /* No comment provided by engineer. */
-"About (Unregistered)" = "關於 (未註冊)";
+"About (Unregistered)" = "关于 (未注册)";
 
 /* add/remove desktops button */
-"Add desktops" = "增加桌面";
+"Add desktops" = "添加桌面";
 
 /* Toolbar item name for the Advanced preference pane */
-"Advanced" = "進階設定";
+"Advanced" = "高级设置";
 
 /* Toolbar item name for the App Spaces preference pane */
-"Apps" = "軟體";
+"Apps" = "应用";
 
 /* No comment provided by engineer. */
-"Check for updates" = "檢查更新";
+"Check for updates" = "检查更新";
 
 /* Toolbar item name for the Circulation preference pane */
-"Circulation" = "循環";
+"Circulation" = "循环";
 
 /* dashboard name shown in menu */
-"Dashboard" = "儀表板";
+"Dashboard" = "仪表板";
 
 /* Toolbar item name for the General preference pane */
 "General" = "一般";
 
 /* Toolbar item name for the Hotcorners preference pane */
-"Hotcorners" = "熱點";
+"Hotcorners" = "热点";
 
 /* Toolbar item name for the Hotkeys preference pane */
-"Hotkeys" = "熱鍵";
+"Hotkeys" = "热键";
 
 /* Toolbar item name for the Layout preference pane */
-"Layout" = "佈局";
+"Layout" = "布局";
 
 /* 3 finger swipe dialog
    hotkey cannot be assigned dialog */
@@ -117,16 +117,16 @@
 "Cancel" = "取消";
 
 /* No comment provided by engineer. */
-"Overview grid" = "瀏覽佈局";
+"Overview grid" = "浏览布局";
 
 /* 3 finger swipe dialog */
-"Please note that we recommend turning off Three finger drag in the Point & Click section of Trackpad preferences (in System Preferences), otherwise the actions may activate simultaneously" = "我們建議您在 系統偏好設定 -> 觸控式軌跡板 中關閉 三指拖移 功能，否則會與 TotalSpaces 產生衝突！";
+"Please note that we recommend turning off Three finger drag in the Point & Click section of Trackpad preferences (in System Preferences), otherwise the actions may activate simultaneously" = "我们建议您在【系统偏好设置】->【触摸板】 中关闭使用三指操作的相关功能，否则会与 TotalSpaces 产生冲突！";
 
 /* hotkeys */
-"Please use a different combination, or check in keyboard preferences that it is not already assigned" = "請使用其它組合, 或者檢查鍵盤快速鍵設定中，該組合尚未被啟用！";
+"Please use a different combination, or check in keyboard preferences that it is not already assigned" = "请使用其它组合, 或者检查键盘快速键设定中，该组合尚未被启用！";
 
 /* Preferences window */
-"Preferences" = "偏好設定";
+"Preferences" = "偏好设置";
 
 /* No comment provided by engineer. */
 "Quit" = "退出";
@@ -135,82 +135,82 @@
 "Remove desktops" = "移除桌面";
 
 /* unshow menu bar dialog */
-"Menu bar item removal" = "移除工具列圖示";
+"Menu bar item removal" = "移除工具栏图标";
 
 /* hotkeys */
-"That key combination could not be assigned" = "該熱鍵組合無法使用";
+"That key combination could not be assigned" = "该热键组合无法使用";
 
 /* hotkeys */
-"That key combination is already in use" = "該熱鍵組合已經被佔用";
+"That key combination is already in use" = "该热键组合已经被占用";
 
 /* hotkeys */
-"The system rejected the assignment even though we tried to force it" = "系統仍然拒絕該快捷鍵組合，即使我們已經嘗試強制指派了！";
+"The system rejected the assignment even though we tried to force it" = "系统仍然拒绝该快捷键组合，即使我们已经尝试强制指派了！";
 
 /* unshow menu bar dialog */
-"To show the preferences, you can double-click the application in your Applications folder" = "To show the preferences, you can double-click the application in your Applications folder";
+"To show the preferences, you can double-click the application in your Applications folder" = "要显示偏好设置, 你可以在应用程序文件夹中双击应用程序";
 
 /* Toolbar item name for the Transitions preference pane */
-"Transitions" = "過場";
+"Transitions" = "过度";
 
 /* No comment provided by engineer. */
-"Trial period expired" = "已過試用期";
+"Trial period expired" = "已过试用期";
 
 /* hotkey already in use dialog */
-"Use anyway" = "已經被使用了！";
+"Use anyway" = "已经被使用了！";
 
 /* layout desktop status label single */
-"You have %ld desktops##{one}" = "目前有 %ld 個桌面";
+"You have %ld desktops##{one}" = "目前有 %ld 个桌面";
 
 /* layout desktop status label plural */
-"You have %ld desktops##{other}" = "目前有 %ld 個桌面";
+"You have %ld desktops##{other}" = "目前有 %ld 个桌面";
 
 /* layout desktop requirements label single */
-"You need %ld desktops##{one}" = "你需要 %ld 個桌面";
+"You need %ld desktops##{one}" = "你需要 %ld 个桌面";
 
 /* layout desktop requirements label plural */
-"You need %ld desktops##{other}" = "你需要 %ld 個桌面";
+"You need %ld desktops##{other}" = "你需要 %ld 个桌面";
 
 /* Hotkeys prefs */
-"Change space" = "切換到別的桌面";
+"Change space" = "切换到别的桌面";
 
 /* Hotkeys prefs */
-"Move current window" = "移動視窗至別的桌面";
+"Move current window" = "移动窗口至别的桌面";
 
 /* Hotkeys prefs */
-"Arrow keys with" = "方向鍵與";
+"Arrow keys with" = "方向键与";
 
 /* Hotkeys prefs */
-"Hotkey" = "熱鍵";
+"Hotkey" = "热键";
 
 /* Hotkeys prefs */
-"Mouse" = "滑鼠";
+"Mouse" = "鼠标";
 
 /* Hotkeys prefs */
-"Instant exposé" = "顯示 Exposé";
+"Instant exposé" = "显示 Exposé";
 
 /* Hotkeys prefs */
 "Instant exposé mouse" = "Instant exposé mouse";
 
 /* Hotkeys prefs */
-"Toggle exposé" = "切換 Exposé";
+"Toggle exposé" = "切换 Exposé";
 
 /* Hotkeys prefs */
-"Space bar" = "空白鍵";
+"Space bar" = "空格键";
 
 /* Hotkeys prefs */
-"Use the space bar to toggle exposé when using the overview grid" = "在瀏覽佈局時使用空格鍵切換 Exposé";
+"Use the space bar to toggle exposé when using the overview grid" = "在浏览布局时使用空格键切换 Exposé";
 
 /* Hotkeys prefs */
-"Choose button" = "選擇按鍵";
+"Choose button" = "选择按键";
 
 /* Hotkeys prefs */
-"3rd/middle button" = "第 3 個按鍵/中鍵";
+"3rd/middle button" = "第 3 个按键/中键";
 
 /* Hotkeys prefs */
-"4th button" = "第 4 個按鍵";
+"4th button" = "第 4 个按键";
 
 /* Hotkeys prefs */
-"5th button" = "第 5 個按鍵";
+"5th button" = "第 5 个按键";
 
 /* Hotkeys prefs popover */
 "Left" = "左";
@@ -225,31 +225,31 @@
 "Down" = "下";
 
 /* Hotkeys prefs popover */
-"Arrow keys" = "方向鍵";
+"Arrow keys" = "方向键";
 
 /* Hotkeys prefs popover */
-"Custom" = "自訂";
+"Custom" = "自定义";
 
 /* General prefs */
-"Start TotalSpaces2 at Login" = "登入時啟動 Totalspaces2";
+"Start TotalSpaces2 at Login" = "登录时启动 Totalspaces2";
 
 /* General prefs */
-"Show notification graphic on desktop change" = "切換桌面時顯示圖形指示";
+"Show notification graphic on desktop change" = "切换桌面时显示图形指示";
 
 /* General prefs */
-"Hide menu bar icon" = "隱藏工具列圖示";
+"Hide menu bar icon" = "隐藏工具栏图标";
 
 /* General prefs */
-"Automatically check for updates" = "自動檢查更新";
+"Automatically check for updates" = "自动检查更新";
 
 /* General prefs */
-"Include pre-releases" = "包含測試版本";
+"Include pre-releases" = "包含测试版本";
 
 /* General prefs */
-"Zoom to overview grid animation" = "切換至網格之過場動畫";
+"Zoom to overview grid animation" = "切换到网格布局时的缩放效果";
 
 /* General prefs */
-"Desktop backgrounds in the overview grid" = "瀏覽佈局時之背景";
+"Desktop backgrounds in the overview grid" = "网格布局的桌面背景";
 
 /* General prefs grid backgrounds */
 "Hi res" = "高解析度";
@@ -258,67 +258,67 @@
 "Lo res" = "低解析度";
 
 /* General prefs grid backgrounds */
-"None (fastest)" = "無 (最快)";
+"None (fastest)" = "无 (最快)";
 
 /* General prefs grid zoom */
-"Desktop zoom" = "僅對桌面做過場動畫";
+"Desktop zoom" = "缩放当前桌面";
 
 /* General prefs grid zoom */
-"Whole grid zoom" = "對網格做過場動畫";
+"Whole grid zoom" = "缩放网格整体";
 
 /* General prefs grid zoom */
-"None" = "無過場動畫";
+"None" = "无";
 
 /* Circulation prefs */
-"Enable circulation" = "開啟桌面平行循環切換";
+"Enable circulation" = "开启桌面水平循环切换";
 
 /* Circulation prefs */
-"Circulate vertically (join top row to bottom row)" = "開啟桌面垂直循環切換";
+"Circulate vertically (join top row to bottom row)" = "开启桌面垂直循环切换";
 
 /* Circulation prefs */
-"Right end of row joins to left end of:" = "在最右邊的桌面按右鍵切換至：";
+"Right end of row joins to left end of:" = "在最右边的桌面按右键切换至：";
 
 /* Circulation prefs */
-"Next row" = "下一列";
+"Next row" = "下一行";
 
 /* Circulation prefs */
-"Same row" = "同一列";
+"Same row" = "同一行";
 
 /* App binding prefs */
-"Application" = "應用程式";
+"Application" = "应用程序";
 
 /* App binding prefs */
 "Desktop" = "桌面";
 
 /* App binding prefs */
-"Use this panel to assign apps to specific desktops" = "使用此控制面板，將應用程式設定至固定桌面";
+"Use this panel to assign apps to specific desktops" = "使用此控制面板，将应用程序设定至固定桌面";
 
 /* App binding prefs */
 "All spaces" = "任一桌面";
 
 /* Transitions prefs */
-"Use transitions" = "使用過場動畫";
+"Use transitions" = "使用过度动画";
 
 /* Transitions prefs */
-"Animation" = "過場效果";
+"Animation" = "过度效果";
 
 /* Transitions prefs */
 "Slide" = "平移";
 
 /* Transitions prefs */
-"Cube" = "立方體";
+"Cube" = "立方体";
 
 /* Transitions prefs */
-"Flip" = "翻轉";
+"Flip" = "翻转";
 
 /* Transitions prefs */
-"Reveal" = "側推";
+"Reveal" = "侧推";
 
 /* Transitions prefs */
-"Fade" = "漸變";
+"Fade" = "渐变";
 
 /* Transitions prefs */
-"Inside cube" = "內立方體";
+"Inside cube" = "内立方体";
 
 /* Transitions prefs */
 "Speed" = "速度";
@@ -330,7 +330,7 @@
 "Fast" = "快";
 
 /* Transitions prefs */
-"Swipe to change space" = "滑動觸摸板切換桌面";
+"Swipe to change space" = "滑动触摸板切换桌面";
 
 /* Transitions prefs */
 "3 fingers" = "3 根手指";
@@ -342,62 +342,62 @@
 "5 fingers" = "5 根手指";
 
 /* Transitions prefs */
-"Invert swipe direction" = "反轉滑動方向";
+"Invert swipe direction" = "反转滑动方向";
 
 /* Transitions prefs */
-"Change space by moving mouse to the edge of the screen" = "使用螢幕熱點切換桌面";
+"Change space by moving mouse to the edge of the screen" = "使用屏幕热点切换桌面";
 
 /* Transitions prefs */
-"With key" = "與該按鍵同時使用";
+"With key" = "与该按键同时使用";
 
 /* Layout prefs - naming popup */
-"Name" = "桌面名稱";
+"Name" = "桌面名称";
 
 /* Layout prefs - naming popup */
 "Done" = "完成";
 
 /* Layout prefs - naming popup */
-"Hotkey for position" = "設定熱鍵";
+"Hotkey for position" = "设定热键";
 
 /* Layout prefs */
-"For this grid" = "目前佈局：";
+"For this grid" = "目前布局：";
 
 /* Layout prefs */
-"Rows:" = "列：";
+"Rows:" = "行：";
 
 /* Layout prefs */
-"Columns:" = "欄：";
+"Columns:" = "列：";
 
 /* Layout prefs */
-"Select display" = "選擇螢幕：";
+"Select display" = "选择屏幕：";
 
 /* Layout prefs */
-"Sync grids (keep screens on the same space number)" = "Sync grids (keep screens on the same space number)";
+"Sync grids (keep screens on the same space number)" = "同步网格布局 (保持屏幕在同一空间的数量)";
 
 /* Layout prefs */
-"Desktop creation" = "Desktop creation";
+"Desktop creation" = "桌面创建";
 
 /* Layout prefs */
-"Could not create all requested desktops. The system limit is 16 (plus specials)" = "Could not create all requested desktops. The system limit is 16 (plus specials)";
+"Could not create all requested desktops. The system limit is 16 (plus specials)" = "不能创建桌面. 系统限制桌面数量为 16 (包括其它形式的)";
 
 /* Hotcorners prefs */
-"Show overview grid" = "顯示佈局";
+"Show overview grid" = "显示布局";
 
 /* Hotcorners prefs */
-"Toggle exposé" = "切換 Exposé";
+"Toggle exposé" = "切换 Exposé";
 
 /* Hotcorners prefs */
-"Overview grid with exposé" = "與 Exposé 一起瀏覽佈局";
+"Overview grid with exposé" = "与 Exposé 一起浏览布局";
 
 /* Hotkeys prefs */
-"Single desktop exposé" = "Single desktop exposé";
+"Single desktop exposé" = "单桌面 exposé";
 
 /* SIP dialog */
-"TotalSpaces2 cannot run on OSX 10.11 El Capitan with System Integrity Protection turned on. See our website for more information." = "TotalSpaces2 cannot run on OSX 10.11 El Capitan with System Integrity Protection turned on. See our website for more information.";
+"TotalSpaces2 cannot run on OSX 10.11 El Capitan with System Integrity Protection turned on. See our website for more information." = "TotalSpaces2 不能运行在 OSX 10.11 El Capitan 版本的系统上, 因为系统开启了完整性保护. 访问我们的网站可以获取更多的信息, 以便获取帮助.";
 
 /* SIP dialog */
-"System Integrity Protection" = "System Integrity Protection";
+"System Integrity Protection" = "系统完整性保护";
 
 /* SIP dialog */
-"Visit website" = "Visit website";
+"Visit website" = "访问网站";
 
